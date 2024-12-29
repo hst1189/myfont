@@ -19,14 +19,16 @@ images = ["images/home-bg.jpg"]
 
 favicon = "images/favicon.ico"
 avatar = "images/avatar.jpg"
-
 author = "g1eny0ung"
+
 description = "フォントの隠れ屋～"
 headerTitle = "フォントの隠れ屋～"
 motto = "個人でも商用でも無料利用できる、フリーフォントを紹介します。"
 
 rss = true
 
+
+# utterances
 utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
 
 # valine = true
@@ -51,7 +53,7 @@ stickyNav = true
 reorderNavItems = ["homepage", "search", "rss", "posts", "categories", "tags"]
 collapseNavItems = ["posts", "categories", "tags"]
 
-# noDefaultSummaryCover = true
+noDefaultSummaryCover = false
 showTableOfContents = true
 showSummaryCoverInPost = true
 imageZoomableInPost = true
