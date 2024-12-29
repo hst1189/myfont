@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="ja"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=9651&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posts | フォントの隠れ屋～</title>
+
+    
+<link href="/images/favicon.ico" rel="icon" type="image/x-icon" />
+
+
+<link rel="canonical" href="http://localhost:9651/posts/" />
+
+
+
+<meta name="author" content="g1eny0ung" />
+<meta name="description" content="" />
+
+
+<meta name="keywords" content="">
+
+
+
+<meta name="generator" content="Hugo 0.127.0">
+
+
+<meta property="og:url" content="http://localhost:9651/posts/">
+  <meta property="og:site_name" content="フォントの隠れ屋～">
+  <meta property="og:title" content="Posts">
+  <meta property="og:description" content="フォントの隠れ屋～">
+  <meta property="og:locale" content="ja">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="http://localhost:9651/images/home-bg.jpg">
+
+
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:9651/images/home-bg.jpg">
+  <meta name="twitter:title" content="Posts">
+  <meta name="twitter:description" content="フォントの隠れ屋～">
+
+
+
+
+<link rel="stylesheet" href="/css/output.css" />
+
+
+<style>
+
+#dream-global-bg {
+  background-image: url(/images/home-bg.jpg);
+}
+
+
+
+html.dark #dream-global-bg {
+  background-image: url(/images/home-bg.jpg);
+}
+
+</style>
+
+
+
+     
+
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    
+<nav x-data="{ isSticky: false }"
+  x-init="window.addEventListener('scroll', () => { isSticky = window.scrollY > 30 })"
+  class="sticky top-0 z-30 mt-4 lg:mt-8 py-4"
+  :class="{ 'bg-base-100 shadow-lg dark:border-b dark:border-base-content/30': isSticky }">
+
+  
+  <div class="container flex justify-between px-4">
+  
+    <section class="flex items-center gap-4">
+      <div class="avatar cursor-pointer hover:online" @click="flip = !flip" title="押してね！">
+        <div class="h-10 rounded-full">
+          <img src="/images/avatar.jpg" alt="フォントの隠れ屋～" />
+        </div>
+      </div>
+
+      
+      <div>
+        
+        <a href="http://localhost:9651/" class="text-lg font-semibold cursor-pointer">
+          フォントの隠れ屋～
+        </a>
+        
+        
+        <div class="text-base-content/60 text-sm">個人でも商用でも無料利用できる、フリーフォントを紹介します。</div>
+        
+      </div>
+      
+    </section>
+
+    <div class="dropdown dropdown-end sm:hidden">
+      <div tabindex="0" role="button" class="btn btn-ghost btn-square" aria-label="Select an option">
+        <ion-icon name="menu" class="text-2xl"></ion-icon>
+      </div>
+      <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-md">
+        
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/" target="" title="home">
+    
+    <ion-icon name="home-sharp"></ion-icon>
+    
+    home
+  </a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/index.xml" title="RSS">
+    <ion-icon name="logo-rss"></ion-icon>
+    RSS
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="投稿履歴">
+    <ion-icon name="archive"></ion-icon>
+    投稿履歴
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="すべてのカテゴリ">
+    <ion-icon name="grid"></ion-icon>
+    すべてのカテゴリ
+  </a>
+</li>
+
+
+
+
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="すべてのタグ">
+    <ion-icon name="pricetags"></ion-icon>
+    すべてのタグ
+  </a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </ul>
+    </div>
+    <section class="hidden sm:flex sm:items-center sm:gap-2 md:gap-4">
+      
+
+      
+      
+        
+      
+
+      
+
+      
+      
+      
+      
+
+
+
+  
+  <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/" target="" title="home">
+    <ion-icon class="group-hover:text-primary-content" name="home-sharp"></ion-icon>
+  </a>
+  
+
+
+
+      
+      
+
+
+
+
+
+      
+      
+<a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" href="/index.xml" title="RSS">
+  <ion-icon class="group-hover:text-primary-content" name="logo-rss"></ion-icon>
+</a>
+
+
+      
+
+      <div class="dropdown dropdown-end dropdown-hover">
+        <div tabindex="0" role="button" class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary" aria-label="Select an option">
+          <ion-icon class="group-hover:text-primary-content text-xl" name="menu"></ion-icon>
+        </div>
+        <ul tabindex="0" class="dropdown-content menu w-36 bg-base-100 rounded-box z-[1] shadow-xl">
+          
+          
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/posts" title="投稿履歴">
+    <ion-icon name="archive"></ion-icon>
+    投稿履歴
+  </a>
+</li>
+
+
+          
+          
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/categories" title="すべてのカテゴリ">
+    <ion-icon name="grid"></ion-icon>
+    すべてのカテゴリ
+  </a>
+</li>
+
+
+          
+          
+<li>
+  <a class="inline-flex items-center p-2 cursor-pointer" href="/tags" title="すべてのタグ">
+    <ion-icon name="pricetags"></ion-icon>
+    すべてのタグ
+  </a>
+</li>
+
+
+          
+
+          
+          
+
+
+
+
+
+
+
+
+
+
+          
+        </ul>
+      </div>
+      
+    </section>
+  </div>
+</nav>
+
+
+    <div class="flip-container" :class="{ 'flip-it': flip }">
+      <div class="flipper">
+        <div class="front">
+          <div class="container">
+            
+
+<div class="mt-8 lg:mt-12 px-4">
+  <div class="mx-auto prose dark:prose-invert">
+    <h1 class="text-3xl">
+      投稿履歴
+    </h1>
+    
+  </div>
+
+  <div class="max-w-[65ch] mx-auto mt-8 lg:mt-12">
+    <ul class="timeline timeline-vertical">
+      
+      
+      <li class="[--timeline-col-start:64px]">
+        <hr class="dark:bg-base-content" />
+        <div class="timeline-start !justify-self-start">
+          <div class="text-lg font-semibold">2024</div>
+        </div>
+        <div class="timeline-middle flex items-center mx-8 my-2">
+          <ion-icon name="time"></ion-icon>
+        </div>
+        <div class="timeline-end timeline-box dark:border-base-content/60 prose dark:prose-invert my-8">
+          <ul>
+            
+            <li>
+              <a href="/posts/9/">哀れなるフォント</a>
+            </li>
+            
+            <li>
+              <a href="/posts/2/">【フリー版あり】とよまーる　丸ゴシック</a>
+            </li>
+            
+            <li>
+              <a href="/posts/5/">【フリー版あり】かもめ明朝│オールドスタイル明朝体【漢字追加アプデ】</a>
+            </li>
+            
+            <li>
+              <a href="/posts/8/">【フリーフォント】築豊明朝│オールドスタイルかな書体</a>
+            </li>
+            
+            <li>
+              <a href="/posts/1/">【フリーフォント】築豊初号明朝│見出し向け明朝体</a>
+            </li>
+            
+            <li>
+              <a href="/posts/7/">【フリーフォント】築豊初号見出しかな│見出し用オールドスタイルかな書体</a>
+            </li>
+            
+            <li>
+              <a href="/posts/6/">【フリーフォント】新レトロ丸ゴシック</a>
+            </li>
+            
+            <li>
+              <a href="/posts/3/">【フリーフォント】「築豊35ポイントゴチック」オールドスタイルのゴシック</a>
+            </li>
+            
+            <li>
+              <a href="/posts/4/">【フリーフォント】「トレゴ」昭和レトロな雰囲気</a>
+            </li>
+            
+          </ul>
+        </div>
+        <hr class="dark:bg-base-content" />
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2016 - 2024 フォントの隠れ屋～
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'moon', status: 'y' },
+    { name: 'sunny', status: 'n' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center h-[32px] px-2 gap-2 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+        <div class="back">
+          <div class="container">
+            
+            <div class="dream-grid dream-grid-about">
+  
+
+  
+
+  
+</div>
+
+            
+
+            
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2016 - 2024 フォントの隠れ屋～
+  </p>
+  
+
+  
+  <p class="text-sm">
+    🌱
+    <span class="text-base-content/60">
+      Powered by <a class="hover:underline" href="https://gohugo.io/" target="_blank">Hugo</a> with theme
+      <a class="hover:underline" href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</span
+    >
+  </p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'moon', status: 'y' },
+    { name: 'sunny', status: 'n' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center h-[32px] px-2 gap-2 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+  window.lightTheme = "emerald"
+  window.darkTheme = "forest"
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+  <script src="/js/grid.js"></script>
+
+
+
+
+<script src="/js/main.js"></script>
+
+     
+
+    
+
+    
+    <script src="/js/sakuraPlus.js"></script>
+    
+
+    
+
+    <script type="module" src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.js"></script>
+  </body>
+</html>
