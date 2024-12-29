@@ -1,0 +1,73 @@
+baseURL = "https://g1en.site"
+defaultContentLanguage = "ja"
+languageCode = "ja"
+
+theme = "dream"
+title = "フォントの隠れ屋～"
+hasCJKLanguage = true
+enableRobotsTXT = true
+
+
+[params]
+# zenMode = true
+lightTheme = "emerald"
+darkTheme = "forest"
+
+backgroundImage = "images/home-bg.jpg"
+backgroundImageDark = "images/home-bg.jpg"
+images = ["images/home-bg.jpg"]
+
+favicon = "images/favicon.ico"
+avatar = "images/avatar.jpg"
+
+author = "g1eny0ung"
+description = "フォントの隠れ屋～"
+headerTitle = "フォントの隠れ屋～"
+motto = "個人でも商用でも無料利用できる、フリーフォントを紹介します。"
+
+rss = true
+
+utterancesRepo = "g1eny0ung/g1eny0ung.github.io"
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+ 
+# waline = true
+# walineServer = ""
+
+email = "g1enyy0ung@gmail.com"
+
+
+# footerBottomText = ""
+siteStartYear = 2016
+
+
+# Syntax highlighting
+customSyntaxHighlighting = false
+ 
+# options
+stickyNav = true
+reorderNavItems = ["homepage", "search", "rss", "posts", "categories", "tags"]
+collapseNavItems = ["posts", "categories", "tags"]
+
+# noDefaultSummaryCover = true
+showTableOfContents = true
+showSummaryCoverInPost = true
+imageZoomableInPost = true
+showPrevNextPost = true
+
+reorderShares = ["x","facebook","whatsapp","Codepen","GitHub"]
+
+[params.advanced]
+# customCSS = ["css/custom.css"]
+customJS = ["js/sakuraPlus.js"]
+
+
+[params.experimental]
+jsDate = true
+jsDateFormat = "yyyy年MM月dd日"
+
+[params.navItems]
+homepage = { href = "/", icon = "home-sharp", title = "home" }
+# github = { href = "https://github.com/g1eny0ung", target = "_blank", icon = "logo-github", title = "GitHub" }
