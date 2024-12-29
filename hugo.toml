@@ -1,12 +1,12 @@
-baseURL = "https://font-566sq.kinsta.page/"
-defaultContentLanguage = "ja"
-languageCode = "ja"
-
-theme = "dream"
+baseURL = "https://myfont.us.kg/"
 title = "フォントの隠れ屋～"
+theme = "dream"
+
+languageCode = "ja-jp"
+defaultContentLanguage = "ja"
+
 hasCJKLanguage = true
 enableRobotsTXT = true
-
 
 [params]
 # zenMode = true
