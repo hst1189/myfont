@@ -1,7 +1,15 @@
-# blog
+- kinsta⇔hugo：
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e8f2124c-4190-4631-a753-e7bf685391c0/deploy-status)](https://app.netlify.com/sites/g1eny0ung-site-preview/deploys)
+　https://github.com/kinsta/hello-world-hugo
 
-<https://g1en.site>
+- hugo templete：
+  
+　https://themes.gohugo.io/themes/hugo-theme-dream/
 
-My personal blog.
+- hugo-theme-dream:
+  
+　https://g1en.site/hugo-theme-dream/params-configurations#example
+ 
+　https://g1en.site/hugo-theme-dream/custom-nav-items
+ 
+　https://g1en.site/hugo-theme-dream/decap-cms
