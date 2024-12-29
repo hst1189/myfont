@@ -2,7 +2,7 @@ baseURL = "https://myfont.us.kg"
 defaultContentLanguage = "zh"
 languageCode = "zh-Hans"
 title = "g1eny0ung 的博客"
-theme = "dream"
+theme = "hugo-theme-dream"
 
 enableGitInfo = true
 enableRobotsTXT = true
