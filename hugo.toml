@@ -1,6 +1,6 @@
 baseURL = "https://myfont.us.kg/"
 title = "フォントの隠れ屋～"
-theme = "hugo-theme-dream-2"
+theme = "dream"
 
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
