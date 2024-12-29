@@ -1,8 +1,8 @@
-baseURL = "https://myfont.us.kg"
+baseURL = "https://g1en.site"
 defaultContentLanguage = "zh"
 languageCode = "zh-Hans"
 title = "g1eny0ung 的博客"
-theme = "hugo-theme-dream"
+theme = "dream"
 
 enableGitInfo = true
 enableRobotsTXT = true
