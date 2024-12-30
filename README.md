@@ -59,8 +59,9 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 ## 素材
+https://coliss.com/articles/freebies/japanese-free-fonts.html
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-775.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-775.png)
 
 [築豊初号明朝OFL](https://typographish.booth.pm/items/6419033)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -69,7 +70,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-774.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-774.png)
 
 [哀れなるフォント](https://mattsun-maru.booth.pm/items/6099268)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -78,7 +79,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-728.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-728.png)
 
 [紙モノゴシック](https://suzumi-bato.booth.pm/items/5537769)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -87,7 +88,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-732.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-732.png)
 
 [紙モノゴシック モダン](https://suzumi-bato.booth.pm/items/5644333)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -96,7 +97,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-754.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-754.png)
 
 [永代ゴシック](https://kohakuno-typelib.booth.pm/items/5917344)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -105,7 +106,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-725.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-725.png)
 
 [筆竹仮名B](https://suzumi-bato.booth.pm/items/5498833)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -114,7 +115,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-690.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-690.png)
 
 [かもめ明朝](https://typographish.booth.pm/items/4887668)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -124,7 +125,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-763.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-763.png)
 
 [手書きのバリアブルフォント「アングル」無料版](https://toktaro.booth.pm/items/6049679)  
 個人サイトで無料利用可（作者のXまたはBoothをフォローすると商用利用可。  
@@ -133,7 +134,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-731.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-731.png)
 
 [推しゴ](https://atelierkotatu.booth.pm/items/5635169)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -142,7 +143,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-715.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-715.png)
 
 [KTきよすなゴシック](https://kohakuno-typelib.booth.pm/items/5389901)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -152,7 +153,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-738.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-738.png)
 
 [Bizin Gothic (ビジン ゴシック)](https://github.com/yuru7/bizin-gothic)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -161,7 +162,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-743.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-743.png)
 
 [ボトムズ](https://chibadesign.booth.pm/items/5270205)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -170,7 +171,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-739.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-739.png)
 
 [でらすこゴシック](https://kinomimi.booth.pm/items/5777441)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -179,7 +180,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-720.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-720.png)
 
 [築豊35ポイントゴチック](https://typographish.booth.pm/items/5466077)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -188,7 +189,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-759.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-759.png)
 
 [とよまーる](https://typographish.booth.pm/items/6137737)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -197,7 +198,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-722.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-722.png)
 
 [やさしいフォント](https://yasashiifont.booth.pm/items/5491954)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -206,7 +207,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-723.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-723.png)
 
 [みそら明朝](https://em---mi.booth.pm/items/5465388)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -215,7 +216,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-714.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-714.png)
 
 [GL-ノバンチカ源](https://github.com/Gutenberg-Labo/GL-NovantiquaMinamoto)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -224,7 +225,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-716.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-716.png)
 
 [GL-くるる源](https://github.com/Gutenberg-Labo/GL-CurulMinamoto)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -233,7 +234,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-752.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-752.png)
 
 [オとマの漢字](https://yattyann.booth.pm/items/5916663)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -242,7 +243,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-747.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-747.png)
 
 [ポプらむ☆キウイ](https://kiwi-kawagoto.com/poprumkiwi/index.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -251,7 +252,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-737.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-737.png)
 
 [サマサン・ドノクン](https://moji-waku.com/samasan/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -260,7 +261,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-758.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-758.png)
 
 [ブリジング -Bridging](https://torisippo.booth.pm/items/6084310)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -269,7 +270,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-735.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-735.png)
 
 [まんぷくふぉんと](https://moji-ya.booth.pm/items/5644930)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -278,7 +279,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-744.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-744.png)
 
 [カットガラスG](https://chibadesign.booth.pm/items/5313709)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -287,7 +288,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-745.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-745.png)
 
 [シロフクG](https://chibadesign.booth.pm/items/5245037)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -296,7 +297,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-753.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-753.png)
 
 [しょーてれふぉんと](https://yattyann.booth.pm/items/5617719)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -305,7 +306,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-748.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-748.png)
 
 [さなフォン丸](https://hearttome.com/fonts/sanafonmaru/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -314,7 +315,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-742.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-742.png)
 
 [手書きフォント「みぎかたあがり」](https://kajidesign.booth.pm/items/5770035)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -323,7 +324,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-740.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-740.png)
 
 [【手書きフォント】ジャスミンちゃ](https://naotoebihara.booth.pm/items/5775007)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -332,7 +333,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-724.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-724.png)
 
 [073 TEGUSE - Kanaka Font](https://073-kanakafont.booth.pm/items/5500648)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -341,7 +342,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-721.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-721.png)
 
 [下手かわギャルフォント「鬼淀」](https://oniyodosanzu.booth.pm/items/5473310)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -350,7 +351,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-718.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-718.png)
 
 [適当ポエム](https://cktrc.booth.pm/items/4806814)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -360,7 +361,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-717.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-717.png)
 
 [藍原江戸文字（フリー版）](https://faraway.booth.pm/items/5415803)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -369,7 +370,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-733.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-733.png)
 
 [しょかき変体仮名ゴチック](https://shokaki.booth.pm/items/5633978)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -378,7 +379,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-767.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-767.png)
 
 [清流かな -R-Free](https://renfont.booth.pm/items/6336629)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -387,7 +388,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-736.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-736.png)
 
 [ぽーらリリィ](https://twitter.com/graygrpx/status/1777876958866780533)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -396,7 +397,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-729.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-729.png)
 
 [になロマン【商用可】](https://213chan.booth.pm/items/5570965)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -405,7 +406,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-727.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-727.png)
 
 [ネコミミフォント【商用可】](https://213chan.booth.pm/items/5506345)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -414,7 +415,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-726.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-726.png)
 
 [おまつりふぉんと【商用可】](https://213chan.booth.pm/items/5502706)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -423,7 +424,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-773.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-773.png)
 
 [フリーフォント：くるん・デコ](https://213chan.booth.pm/items/6401767)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -432,7 +433,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-762.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-762.png)
 
 [フリーフォント：ポテジフェイス（Potejiface\_font）【商用可】](https://213chan.booth.pm/items/6261519)  
 写真: [Unsplash](https://unsplash.com/ja/%E5%86%99%E7%9C%9F/%E3%83%87%E3%82%A3%E3%83%83%E3%83%97%E3%81%A8%E8%AA%BF%E5%91%B3%E6%96%99%E3%81%8C%E5%85%A5%E3%81%A3%E3%81%9F%E3%83%95%E3%83%A9%E3%82%A4%E3%83%89%E3%83%9D%E3%83%86%E3%83%88%E3%81%AE%E3%83%88%E3%83%AC%E3%82%A4-O-SfuUoZUDs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)の[henry perks](https://unsplash.com/ja/@hjkp?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)が撮影  
@@ -442,7 +443,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-761.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-761.png)
 
 [フリーフォント：nina-Strong-girl\_font【商用可】](https://213chan.booth.pm/items/6158856)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -451,7 +452,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-760.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-760.png)
 
 [フリーフォント：nina\_Littleluckgirl\_font【商用可】](https://213chan.booth.pm/items/6115436)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -460,7 +461,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-750.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-750.png)
 
 [nina\_Schoolgirl\_font【商用可】](https://213chan.booth.pm/items/5892111)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -469,7 +470,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-757.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-757.png)
 
 [フリーフォント：213chan\_nonbit【商用可】](https://213chan.booth.pm/items/6007632)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -478,7 +479,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-772.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-772.png)
 
 [くすくすあめ](https://f6type.booth.pm/items/6402824)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -487,7 +488,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-771.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-771.png)
 
 [ちいかフォント](https://lavsic.booth.pm/items/6401206)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -496,7 +497,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-751.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-751.png)
 
 [ぐちゃもじフォント](https://reiha3073.booth.pm/items/5897004)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -505,7 +506,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-749.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-749.png)
 
 [おしょうのきったねえ字フォント](https://oshooo.booth.pm/items/5822226)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -514,7 +515,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-769.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-769.png)
 
 [KawasakiMadDog](https://note.com/up_hide/n/ne132f71a8ab8)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -523,7 +524,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-768.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-768.png)
 
 [ヤデワのジ](https://ymnk-design.booth.pm/items/6334651)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -532,7 +533,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-770.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-770.png)
 
 [流線形 フリーフォント](https://flopdesign.booth.pm/items/6383865)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -541,7 +542,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-766.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-766.png)
 
 [SOBA & UDON -BOOTH](https://typingart.booth.pm/items/6276913)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -550,7 +551,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-765.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-765.png)
 
 [横浜ドット](https://typingart.booth.pm/items/6277569)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -559,7 +560,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-719.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-719.png)
 
 [マルミーニャＭ](https://hicchicc.github.io/00ff/)  
 [マルミーニャＭ -BOOTH](https://00ff.booth.pm/items/5435640)  
@@ -571,7 +572,7 @@ iOSではアプリごとに利用できるフォントが限られたりしま�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-755.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-755.png)
 
 [DSEG](https://www.keshikan.net/fonts.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -580,7 +581,7 @@ LEDやデジタル時計を意識したデジタル数字フォント。7SEG表�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-756.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-756.png)
 
 [SEVENBAR](https://www.trojanbear.net/s/category/font)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -589,7 +590,7 @@ LEDやデジタル時計を意識したデジタル数字フォント。7SEG表�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-764.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-764.png)
 
 [【フリーフォント】ギシローレーカー](https://suzumi-bato.booth.pm/items/6293863)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -598,7 +599,7 @@ LEDやデジタル時計を意識したデジタル数字フォント。7SEG表�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-730.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-730.png)
 
 [【フリーフォント】夜永縦書きギリシャ文字](https://branch-nuts.booth.pm/items/5071818)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -607,7 +608,7 @@ LEDやデジタル時計を意識したデジタル数字フォント。7SEG表�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-111b.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-111b.png)
 
 [機械彫刻用標準書体 M](http://font.kim/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -620,7 +621,7 @@ LEDやデジタル時計を意識したデジタル数字フォント。7SEG表�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-688.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-688.png)
 
 [Darumadrop One](https://mksd.jp/darumadrop.html)  
 [Darumadrop One -GitHub](https://github.com/ManiackersDesign/darumadrop)  
@@ -633,7 +634,7 @@ Darumadrop（だるま落とし）、民芸、伝統工芸、昭和というよ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-602.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-602.png)
 
 [Morisawa BIZ UDGothic（モリサワ BIZ UDゴシック） -GitHub](https://github.com/googlefonts/morisawa-biz-ud-gothic)  
 [BIZ UDGothic -Google Fonts](https://fonts.google.com/specimen/BIZ+UDGothic)  
@@ -645,7 +646,7 @@ Darumadrop（だるま落とし）、民芸、伝統工芸、昭和というよ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-602.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-602.png)
 
 [Morisawa BIZ UDMincho（モリサワ BIZ UD明朝） -GitHub](https://github.com/googlefonts/morisawa-biz-ud-mincho)  
 [BIZ UDMincho -Google Fonts](https://fonts.google.com/specimen/BIZ+UDMincho)  
@@ -655,7 +656,7 @@ Darumadrop（だるま落とし）、民芸、伝統工芸、昭和というよ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-140.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-140.png)
 
 [モッチーポップ](https://fontdasu.com/1750)  
 [モッチーポップ -GitHub](https://github.com/fontdasu/Mochiypop)  
@@ -667,7 +668,7 @@ Darumadrop（だるま落とし）、民芸、伝統工芸、昭和というよ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-542.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-542.png)
 
 [ひな明朝 -GitHub](https://github.com/satsuyako/Hina-Mincho)  
 [ひな明朝 -Google Fonts](https://fonts.google.com/specimen/Hina+Mincho)
@@ -679,7 +680,7 @@ Darumadrop（だるま落とし）、民芸、伝統工芸、昭和というよ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-538.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-538.png)
 
 [Kaisei -GitHub](https://github.com/FontKai-Kaisei/Kaisei)  
 [解星オプティ -Google Fonts](https://fonts.google.com/specimen/Kaisei+Opti)
@@ -691,7 +692,7 @@ Darumadrop（だるま落とし）、民芸、伝統工芸、昭和というよ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-539.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-539.png)
 
 [Kaisei -GitHub](https://github.com/FontKai-Kaisei/Kaisei)  
 [解星デコール -Google Fonts](https://fonts.google.com/specimen/Kaisei+Decol)
@@ -703,7 +704,7 @@ Darumadrop（だるま落とし）、民芸、伝統工芸、昭和というよ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-540.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-540.png)
 
 [Kaisei -GitHub](https://github.com/FontKai-Kaisei/Kaisei)  
 [解星 春の海 -Google Fonts](https://fonts.google.com/specimen/Kaisei+HarunoUmi)
@@ -715,7 +716,7 @@ Darumadrop（だるま落とし）、民芸、伝統工芸、昭和というよ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-541.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-541.png)
 
 [Kaisei -GitHub](https://github.com/FontKai-Kaisei/Kaisei)  
 [解星 特ミン -Google Fonts](https://fonts.google.com/specimen/Kaisei+Tokumin)
@@ -727,7 +728,7 @@ Darumadrop（だるま落とし）、民芸、伝統工芸、昭和というよ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-527.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-527.png)
 
 [Mplus 1](https://mplusfonts.github.io/)  
 [Mplus 1 -GitHub](https://github.com/coz-m/MPLUS_FONTS)  
@@ -739,7 +740,7 @@ M+ FONTSが生まれ変わります。Googleのサポートを受けてフォン
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-528.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-528.png)
 
 [Mplus 2](https://mplusfonts.github.io/)  
 [Mplus 2 -GitHub](https://github.com/coz-m/MPLUS_FONTS)  
@@ -751,7 +752,7 @@ M+ FONTSが生まれ変わります。Googleのサポートを受けてフォン
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-529.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-529.png)
 
 [Mplus 1 Code](https://mplusfonts.github.io/)  
 [Mplus 1 Code -GitHub](https://github.com/coz-m/MPLUS_FONTS)  
@@ -762,7 +763,7 @@ M+ FONTSが生まれ変わります。Googleのサポートを受けてフォン
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-571.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-571.png)
 
 [Mplus Code Latin](https://mplusfonts.github.io/)  
 [Mplus Code Latin -GitHub](https://github.com/coz-m/MPLUS_FONTS)  
@@ -773,7 +774,7 @@ M+ FONTSが生まれ変わります。Googleのサポートを受けてフォン
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-500.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-500.png)
 
 [しっぽり明朝 v3](https://fontdasu.com/shippori-mincho/)  
 [ShipporiMincho -GitHub](https://github.com/fontdasu/ShipporiMincho)  
@@ -785,7 +786,7 @@ M+ FONTSが生まれ変わります。Googleのサポートを受けてフォン
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-577.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-577.png)
 
 [牟礼町](https://github.com/positype/Murecho-Project)  
 [牟礼町 -Google Fonts](https://fonts.google.com/specimen/Murecho)  
@@ -795,7 +796,7 @@ M+ FONTSが生まれ変わります。Googleのサポートを受けてフォン
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-570.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-570.png)
 
 [Yuji(佑字)肅、舞、朴、灯、曙](https://github.com/Kinutafontfactory/Yuji)  
 [Yuji -Google Fonts](https://fonts.google.com/?query=yuji)  
@@ -805,7 +806,7 @@ M+ FONTSが生まれ変わります。Googleのサポートを受けてフォン
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-572.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-572.png)
 
 [ZEN丸ゴシック](https://github.com/googlefonts/zen-marugothic)  
 [ZEN丸ゴシック -Google Fonts](https://fonts.google.com/specimen/Zen+Maru+Gothic)  
@@ -815,7 +816,7 @@ ZENフォントはフォントライセンス事業とサポートの終了に�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-573.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-573.png)
 
 [ZEN角ゴシック](https://github.com/googlefonts/zen-kakugothic)  
 [ZEN角ゴシック New -Google Fonts](https://fonts.google.com/specimen/Zen+Kaku+Gothic+New)  
@@ -826,7 +827,7 @@ ZENフォントはフォントライセンス事業とサポートの終了に�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-574.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-574.png)
 
 [ZENオールド明朝](https://github.com/googlefonts/zen-oldmincho)  
 [ZENオールド明朝 -Google Fonts](https://fonts.google.com/specimen/Zen+Old+Mincho)  
@@ -836,7 +837,7 @@ ZENフォントはフォントライセンス事業とサポートの終了に�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-583.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-583.png)
 
 [夜永オールド明朝](https://branch-nuts.booth.pm/items/3489185)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -846,7 +847,7 @@ ZENオールド明朝のRegular、Bold、Blackを縦書き用に調整したフ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-575.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-575.png)
 
 [ZENアンチック/ZENアンチックS](https://github.com/googlefonts/zen-antique)  
 [ZENアンチック -Google Fonts](https://fonts.google.com/specimen/Zen+Antique)  
@@ -857,7 +858,7 @@ ZENフォントはフォントライセンス事業とサポートの終了に�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-576.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-576.png)
 
 [ZEN紅道](https://github.com/googlefonts/zen-kurenaido)  
 [ZEN紅道 -Google Fonts](https://fonts.google.com/specimen/Zen+Kurenaido)  
@@ -867,7 +868,7 @@ ZENフォントはフォントライセンス事業とサポートの終了に�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-503.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-503.png)
 
 [ニューテゴミン](https://github.com/nagamaki008/NewTegomin)  
 [ニューテゴミン -Google Fonts](https://fonts.google.com/specimen/New+Tegomin)  
@@ -877,7 +878,7 @@ ZENフォントはフォントライセンス事業とサポートの終了に�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-482.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-482.png)
 
 [ステッキ](https://github.com/fontworks-fonts/Stick)  
 [Stick -Google Fonts](https://fonts.google.com/specimen/Stick)  
@@ -888,7 +889,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-483.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-483.png)
 
 [ロックンロール One](https://github.com/fontworks-fonts/RocknRoll)  
 [RocknRoll One -Google Fonts](https://fonts.google.com/specimen/RocknRoll+One)  
@@ -899,7 +900,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-484.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-484.png)
 
 [レゲエ One](https://github.com/fontworks-fonts/Reggae)  
 [Reggae One -Google Fonts](https://fonts.google.com/specimen/Reggae+One)  
@@ -911,7 +912,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-485.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-485.png)
 
 [クレー One](https://fonts.google.com/specimen/Klee+One)  
 [クレー One -GitHub](https://github.com/fontworks-fonts/Klee)  
@@ -922,7 +923,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-486.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-486.png)
 
 [ランパート One -Google Fonts](https://fonts.google.com/specimen/Rampart+One)  
 [ランパート One -GitHub](https://github.com/fontworks-fonts/Rampart)  
@@ -933,7 +934,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-487.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-487.png)
 
 [トレイン One](https://github.com/fontworks-fonts/Train)  
 [Train One -Google Fonts](https://fonts.google.com/specimen/Train+One)  
@@ -944,7 +945,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-505.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-505.png)
 
 [キウイ丸](https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)  
 [Kiwi Maru -Google Fonts](https://fonts.google.com/specimen/Kiwi+Maru)  
@@ -954,7 +955,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-502.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-502.png)
 
 [デラゴシック](https://github.com/syakuzen/DelaGothic)  
 [デラゴシック -Google Fonts](https://fonts.google.com/specimen/Dela+Gothic+One)  
@@ -964,7 +965,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-383.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-383.png)
 
 [小杉フォント -Google Fonts](https://fonts.google.com/specimen/Kosugi)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -973,7 +974,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-384.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-384.png)
 
 [小杉丸フォント -Google Fonts](https://fonts.google.com/specimen/Kosugi+Maru)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -982,7 +983,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-536.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-536.png)
 
 [YomogiFont](https://github.com/satsuyako/YomogiFont)  
 [Yomogi -Google Fonts](https://fonts.google.com/specimen/Yomogi)  
@@ -992,7 +993,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-525.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-525.png)
 
 [はちまるポップ](https://github.com/noriokanisawa/HachiMaruPop)  
 [Hachi Maru Pop -Google Fonts](https://fonts.google.com/specimen/Hachi+Maru+Pop)  
@@ -1002,7 +1003,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-501.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-501.png)
 
 [ポッタ](https://github.com/go108go/Potta)  
 [Potta One -Google Fonts](https://fonts.google.com/specimen/Potta+One?subset=japanese)  
@@ -1012,7 +1013,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-568.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-568.png)
 
 [彫刻体](https://github.com/go108go/Chokokutai)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1021,7 +1022,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-526.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-526.png)
 
 [YuseiMagic](https://github.com/tanukifont/YuseiMagic)  
 [YuseiMagic -Google Fonts](https://fonts.google.com/specimen/Yusei+Magic)  
@@ -1031,7 +1032,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-488.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-488.png)
 
 [ドットゴシック16](https://github.com/fontworks-fonts/DotGothic16)  
 [DotGothic16 -Google Fonts](https://fonts.google.com/specimen/DotGothic16)  
@@ -1044,7 +1045,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-647.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-647.png)
 
 [LINE Seed JP](https://seed.line.me/index_jp.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1053,7 +1054,7 @@ Fontworksから日本語フォントがSILライセンスで公開されまし�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-001.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-001.png)
 
 [源ノ角ゴシック（Source Han Sans）](https://github.com/adobe-fonts/source-han-sans)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。
@@ -1066,7 +1067,7 @@ Typekit経由で利用: [源ノ角ゴシック -Typekit](https://fonts.adobe.com
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-701.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-701.png)
 
 [トレゴ](https://typographish.booth.pm/items/5047791)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1075,7 +1076,7 @@ Typekit経由で利用: [源ノ角ゴシック -Typekit](https://fonts.adobe.com
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-678.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-678.png)
 
 [新レトロ丸ゴシック](https://typographish.booth.pm/items/4607768)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1086,7 +1087,7 @@ Typekit経由で利用: [源ノ角ゴシック -Typekit](https://fonts.adobe.com
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-702.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-702.png)
 
 [しっぽり太ゴシック](https://fontdasu.booth.pm/items/5147560)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1095,7 +1096,7 @@ Typekit経由で利用: [源ノ角ゴシック -Typekit](https://fonts.adobe.com
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-703.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-703.png)
 
 [しっぽり太ゴチック](https://fontdasu.booth.pm/items/5147583)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1104,7 +1105,7 @@ Typekit経由で利用: [源ノ角ゴシック -Typekit](https://fonts.adobe.com
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-004.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-004.png)
 
 東青梅ゴシック / 東青梅ゴシック C  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1115,7 +1116,7 @@ Typekit経由で利用: [源ノ角ゴシック -Typekit](https://fonts.adobe.com
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-676.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-676.png)
 
 [ひぐれゴシック](https://mokuzai.booth.pm/items/4571997)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1124,7 +1125,7 @@ Zen角ゴシックNを角丸にし、墨だまり処理したフォント。ウ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-674.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-674.png)
 
 [夏蝉丸ゴシック](https://mokuzai.booth.pm/items/4525676)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1133,7 +1134,7 @@ Zen角ゴシックNを角丸にし、墨だまり処理したフォント。ウ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-639.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-639.png)
 
 [お手製Rwiフォント v3.0](https://rwi.booth.pm/items/4114624)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1142,7 +1143,7 @@ Zen角ゴシックNを角丸にし、墨だまり処理したフォント。ウ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-629.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-629.png)
 
 [つなぎゴシック](https://mokuzai.booth.pm/items/3885939)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1151,7 +1152,7 @@ Zen角ゴシックNを角丸にし、墨だまり処理したフォント。ウ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-601.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-601.png)
 
 [ヒカリ角ゴ](https://github.com/welai/glow-sans)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1160,7 +1161,7 @@ Zen角ゴシックNを角丸にし、墨だまり処理したフォント。ウ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-005.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-005.png)
 
 [Mgen+](http://jikasei.me/font/mgenplus/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1169,7 +1170,7 @@ M+ OUTLINEに、源ノ角ゴシックの豊富な漢字をプラスしたフォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-530.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-530.png)
 
 [すきまゴシック](https://oppekebekkanko.booth.pm/items/2117070)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1178,7 +1179,7 @@ M+ OUTLINEに、源ノ角ゴシックの豊富な漢字をプラスしたフォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-006.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-006.png)
 
 [源真ゴシック](http://jikasei.me/font/genshin/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1187,7 +1188,7 @@ M+ OUTLINEに、源ノ角ゴシックの豊富な漢字をプラスしたフォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-448.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-448.png)
 
 [M+A1](https://microraptor.booth.pm/items/2347968)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1196,7 +1197,7 @@ M+ FONTSをPythonにより機械的に角丸・墨溜まり処理を施したフ
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-007.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-007.png)
 
 [IPAexフォント](https://moji.or.jp/ipafont/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1204,7 +1205,7 @@ M+ FONTSをPythonにより機械的に角丸・墨溜まり処理を施したフ
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-010.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-010.png)
 
 [koruri](https://koruri.github.io/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1213,7 +1214,7 @@ M+ FontとOpen Sansを合成した、すっきりと読みやすいフォント�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-011.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-011.png)
 
 [やさしさゴシック](http://www.fontna.com/blog/379/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1221,7 +1222,7 @@ M+ FontとOpen Sansを合成した、すっきりと読みやすいフォント�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-013.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-013.png)
 
 [やさしさゴシック手書き](http://fontna.com/freefont/?p=40)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1229,7 +1230,7 @@ M+ FontとOpen Sansを合成した、すっきりと読みやすいフォント�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-551.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-551.png)
 
 [瀞ノグリッチ黒体](https://microraptor.booth.pm/items/3041172)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1238,7 +1239,7 @@ M+ FontとOpen Sansを合成した、すっきりと読みやすいフォント�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-020.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-020.png)
 
 [ざっくりゴシック](https://nippori30.booth.pm/items/2526375)  
 個人サイトで無料利用可。印刷・画像・動画なども可。  
@@ -1247,7 +1248,7 @@ M+ FONTSの派生フォントで、鉛筆で文字を斜めに塗りつぶした
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-553.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-553.png)
 
 [ラインゴシック](https://nippori30.booth.pm/items/2120156)  
 個人サイトで無料利用可。印刷・画像・動画なども可。  
@@ -1256,7 +1257,7 @@ M+ FONTSの派生フォントで、鉛筆で文字を斜めに塗りつぶした
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-554.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-554.png)
 
 [スリットゴシック](https://nippori30.booth.pm/items/1812446)  
 個人サイトで無料利用可。印刷・画像・動画なども可。  
@@ -1265,7 +1266,7 @@ M+ FONTSの派生フォントで、鉛筆で文字を斜めに塗りつぶした
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-014.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-014.png)
 
 [ロゴたいぷゴシック](http://www.fontna.com/blog/1226/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1273,7 +1274,7 @@ M+ FONTSの派生フォントで、鉛筆で文字を斜めに塗りつぶした
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-015.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-015.png)
 
 [ロゴたいぷゴシック-コンデンスド](http://www.fontna.com/blog/1345/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1281,7 +1282,7 @@ M+ FONTSの派生フォントで、鉛筆で文字を斜めに塗りつぶした
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-519.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-519.png)
 
 [チョーク体](http://font.cutegirl.jp/chalk-font-free.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1290,7 +1291,7 @@ M+ FONTSの派生フォントで、鉛筆で文字を斜めに塗りつぶした
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-520.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-520.png)
 
 [チョークS](http://font.cutegirl.jp/chalk-s.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1299,7 +1300,7 @@ M+ FONTSの派生フォントで、鉛筆で文字を斜めに塗りつぶした
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-521.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-521.png)
 
 [JK丸ゴシック](http://font.cutegirl.jp/jkmarugo.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1308,7 +1309,7 @@ M+ FONTSの派生フォントで、鉛筆で文字を斜めに塗りつぶした
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-016.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-016.png)
 
 [JKゴシックL](http://font.cutegirl.jp/jk-font-light.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1317,7 +1318,7 @@ JKゴシックLは女子高生が書いたような文字をイメージし、�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-017.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-017.png)
 
 [JKゴシックM](http://font.cutegirl.jp/jk-font-medium.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1326,7 +1327,7 @@ JKゴシックLに、更にかわいくほんの少し太めにデザインさ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-637.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-637.png)
 
 [どきどきファンタジア](https://flopdesign.booth.pm/items/4106184)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1335,7 +1336,7 @@ Zen丸ゴシックをベースに、かわいくてポップな見出し・ロ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-567.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-567.png)
 
 [ヨハクmini-R](https://flopdesign.com/syotai/yohaku.html)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1344,7 +1345,7 @@ Zen丸ゴシックをベースに、かわいくてポップな見出し・ロ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-499.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-499.png)
 
 [零ゴシック](https://flopdesign.booth.pm/items/2658538)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1353,7 +1354,7 @@ Zen丸ゴシックをベースに、かわいくてポップな見出し・ロ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-510.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-510.png)
 
 [モボ](https://flopdesign.booth.pm/items/4647262)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1362,7 +1363,7 @@ Zen丸ゴシックをベースに、かわいくてポップな見出し・ロ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-012.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-012.png)
 
 [やさしさゴシックV2 - Bold](https://flopdesign.booth.pm/items/1833993)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1371,7 +1372,7 @@ Zen丸ゴシックをベースに、かわいくてポップな見出し・ロ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-018.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-018.png)
 
 [スマートフォントUI+](https://www.flopdesign.com/freefont/smartfont.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1379,7 +1380,7 @@ Zen丸ゴシックをベースに、かわいくてポップな見出し・ロ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-019.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-019.png)
 
 [フロップデザインフォントM+](https://www.flopdesign.com/freefont/flopdesignfont.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1387,7 +1388,7 @@ Zen丸ゴシックをベースに、かわいくてポップな見出し・ロ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-022.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-022.png)
 
 [インビジブルゴシック](https://nippori30.booth.pm/items/4144426)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1396,7 +1397,7 @@ Zen丸ゴシックをベースに、かわいくてポップな見出し・ロ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-023.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-023.png)
 
 [木漏れ日ゴシック](http://modi.jpn.org/font_komorebi-gothic.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1405,7 +1406,7 @@ Zen丸ゴシックをベースに、かわいくてポップな見出し・ロ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-024.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-024.png)
 
 [せのびゴシック](http://modi.jpn.org/font_senobi.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1414,7 +1415,7 @@ M+ FONTSの幅を縮め、背伸びしたようなデザインのフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-025.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-025.png)
 
 [超極細ゴシック体](http://font.websozai.jp/line-font-mihon.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1424,7 +1425,7 @@ Extra Lightよりも細く、Extra Thinというウェイトはこのフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-026.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-026.png)
 
 [なごみ極細ゴシック](http://font.websozai.jp/line-font2-mihon.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1433,7 +1434,7 @@ Extra Lightよりも細く、Extra Thinというウェイトはこのフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-027.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-027.png)
 
 [略字フォント](https://nukosuki.booth.pm/items/134190)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1442,7 +1443,7 @@ Extra Lightよりも細く、Extra Thinというウェイトはこのフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-028.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-028.png)
 
 [略字GSゴシック](https://nukosuki.booth.pm/items/450272)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1450,7 +1451,7 @@ Extra Lightよりも細く、Extra Thinというウェイトはこのフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-524.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-524.png)
 
 [略字少なめトゲトゲ](https://nukosuki.booth.pm/items/2998290)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1459,7 +1460,7 @@ Fontworksの「レゲエ One」がSILライセンスで公開され、それを�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-523.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-523.png)
 
 [略字少なめ丸ゴシック細](https://nukosuki.booth.pm/items/1314137)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1468,7 +1469,7 @@ Fontworksの「レゲエ One」がSILライセンスで公開され、それを�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-522.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-522.png)
 
 [大正略字フォント](https://nukosuki.booth.pm/items/363104)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1477,7 +1478,7 @@ Fontworksの「レゲエ One」がSILライセンスで公開され、それを�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-029.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-029.png)
 
 [刻ゴシックフォント](http://freefonts.jp/font-koku-go.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。
@@ -1487,7 +1488,7 @@ Fontworksの「レゲエ One」がSILライセンスで公開され、それを�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-030.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-030.png)
 
 [ぼくたちのゴシック](https://fontopo.com/?p=164)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1495,7 +1496,7 @@ Fontworksの「レゲエ One」がSILライセンスで公開され、それを�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-578.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-578.png)
 
 [ひこみフォント](https://bbbbbhimiko.booth.pm/items/2734322)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1504,7 +1505,7 @@ Fontworksの「レゲエ One」がSILライセンスで公開され、それを�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-034.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-034.png)
 
 [Nasu](http://itouhiro.hatenablog.com/entry/20140917/font)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1513,7 +1514,7 @@ Fontworksの「レゲエ One」がSILライセンスで公開され、それを�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-035.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-035.png)
 
 [Kazesawa フォント](https://kazesawa.github.io/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1522,7 +1523,7 @@ Fontworksの「レゲエ One」がSILライセンスで公開され、それを�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-037.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-037.png)
 
 [押出Mゴシック](https://tanukifont.com/oshidashi-m-gothic/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1532,7 +1533,7 @@ Fontworksの「レゲエ One」がSILライセンスで公開され、それを�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-002.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-002.png)
 
 [源ノ角ゴシック Code（Source Han Code JP）](https://github.com/adobe-fonts/source-han-code-jp)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1542,7 +1543,7 @@ Adobeによる、こちらはコードが見やすいようデザインされた
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-381.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-381.png)
 
 [源ノ等幅（Source Han Mono）](https://github.com/adobe-fonts/source-han-mono)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1551,7 +1552,7 @@ Source Han SansとSource Code Proから派生したSource Han Monoは、7種類�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-603.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-603.png)
 
 [UDEV Gothic](https://github.com/yuru7/udev-gothic)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1560,7 +1561,7 @@ MORISAWA BIZ UDゴシックを使用したプログラミング用合成フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-382.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-382.png)
 
 [プログラミングフォント 白源 (HackGen)](https://github.com/yuru7/HackGen)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1570,7 +1571,7 @@ MORISAWA BIZ UDゴシックを使用したプログラミング用合成フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-569.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-569.png)
 
 [PlemolJP](https://github.com/yuru7/PlemolJP)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1580,7 +1581,7 @@ IBM Plex MonoとIBM Plex Sans JPを合成した日本語プログラミングフ
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-036.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-036.png)
 
 [Cicaフォント](https://github.com/miiton/Cica)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1590,7 +1591,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-489.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-489.png)
 
 [源暎モノゴ/モノコード](https://okoneya.jp/font/genei-mono-go.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1599,7 +1600,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-406.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-406.png)
 
 [Kinto](https://github.com/ookamiinc/kinto)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1609,7 +1610,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-407.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-407.png)
 
 [Yaku Han JP](https://yakuhanjp.qranoko.jp/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1621,7 +1622,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-038.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-038.png)
 
 [Rounded Mgen+](http://jikasei.me/font/rounded-mgenplus/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1631,7 +1632,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-039.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-039.png)
 
 [自家製 Rounded M+](http://jikasei.me/font/rounded-mplus/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1641,7 +1642,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-040.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-040.png)
 
 [源柔ゴシック](http://jikasei.me/font/genjyuu/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1650,7 +1651,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-041.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-041.png)
 
 [源泉丸ゴシック](https://github.com/ButTaiwan/gensen-font)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1659,7 +1660,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-692.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-692.png)
 
 [やさしいキモチつながるDemo](https://www.flopdesign.com/font4/yasashiikimochi.html)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1668,7 +1669,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-708.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-708.png)
 
 [だぶるれもん Demo版](https://flopdesign.booth.pm/items/5190194)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1677,7 +1678,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-680.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-680.png)
 
 [うたとキャロル Demo版](https://www.flopdesign.com/syotai/utacarol.html)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1686,7 +1687,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-042.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-042.png)
 
 [まるがめ本丸ゴシック](https://www.flopdesign.com/marugothic/marugame-font.html)  
 個人で無料利用可、非営利の同人誌や各種印刷物なども可。  
@@ -1695,7 +1696,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-043.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-043.png)
 
 [かなざわ本丸ゴシック](https://www.flopdesign.com/marugothic/kanazawa-font.html)  
 個人で無料利用可、非営利の同人誌や各種印刷物なども可。  
@@ -1703,7 +1704,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-044.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-044.png)
 
 [あさご本丸ゴシック](https://www.flopdesign.com/marugothic/asago-honmaru-gothic.html)  
 個人で無料利用可、非営利の同人誌や各種印刷物なども可。  
@@ -1711,7 +1712,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-045.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-045.png)
 
 [うずまさ本丸ゴシック](https://www.flopdesign.com/marugothic/uzumasa-font.html)  
 個人で無料利用可、非営利の同人誌や各種印刷物なども可。  
@@ -1719,7 +1720,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-046.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-046.png)
 
 [しらさぎ本丸ゴシック](https://www.flopdesign.com/marugothic/shirasagi-font.html)  
 個人で無料利用可。画像投稿サイト、コミケなどの同人誌の利用も無料。  
@@ -1728,7 +1729,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-047.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-047.png)
 
 [くまもと本丸ゴシック](https://www.flopdesign.com/marugothic/kumamoto-font.html)  
 個人で無料利用可。画像投稿サイト、コミケなどの同人誌の利用も無料。  
@@ -1737,7 +1738,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-048.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-048.png)
 
 [ひこね本丸ゴシック](https://www.flopdesign.com/marugothic/hikone-font.html)  
 個人で無料利用可。画像投稿サイト、コミケなどの同人誌の利用も無料。  
@@ -1746,7 +1747,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-049.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-049.png)
 
 [ほのか新丸ゴシック](http://font.gloomy.jp/honoka-maru-gothic-dl.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1755,7 +1756,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-050.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-050.png)
 
 [ほのか新アンティーク丸](http://font.gloomy.jp/honoka-antique-maru-dl.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1764,7 +1765,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-051.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-051.png)
 
 [タイムマシンわ号](http://modi.jpn.org/font_timemachine-wa.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1773,7 +1774,7 @@ Windowsでも綺麗に、可読性・視認性・判読性が高い日本語プ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-052.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-052.png)
 
 Mac細丸ゴシック  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。ライセンスは、「ご自由にお使いください」。  
@@ -1783,7 +1784,7 @@ Mac細丸ゴシック
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-053.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-053.png)
 
 [源ノ明朝（Source Han Serif）](https://github.com/adobe-fonts/source-han-serif)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1794,7 +1795,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-677.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-677.png)
 
 [築豊初号見出し明朝│見出し用オールドスタイルかな書体](https://typographish.booth.pm/items/4526378)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1803,7 +1804,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-662.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-662.png)
 
 [築豊明朝](https://typographish.booth.pm/items/4404547)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1812,7 +1813,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-054.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-054.png)
 
 [はれのそら明朝](https://fontopo.com/?p=377)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1820,7 +1821,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-056.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-056.png)
 
 [はんなり明朝](https://typingart.net/?p=44)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1830,7 +1831,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-055.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-055.png)
 
 [こころ明朝体](https://fontopo.com/?p=520)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1838,7 +1839,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-493.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-493.png)
 
 [馬酔木（あせび）明朝](https://metasta.github.io/asebi/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1847,7 +1848,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-058.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-058.png)
 
 [さつき源代明朝](https://okoneya.jp/font/download.html#dl-stgm)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1856,7 +1857,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-059.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-059.png)
 
 [幻ノにじみ明朝](http://www.fontna.com/blog/1912/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1865,7 +1866,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-458.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-458.png)
 
 [フルヤ明朝](https://yodan.booth.pm/items/1897955)  
 個人サイトで無料利用可。同人誌は可、グッズは不可。  
@@ -1874,7 +1875,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-122.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-122.png)
 
 [コーポレート明朝](http://logotype.jp/osusume-font-corpmin.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1884,7 +1885,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-549.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-549.png)
 
 [コーポレートやわ明](https://logotype.jp/corp-yawamin.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1893,7 +1894,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-061.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-061.png)
 
 [刻明朝フォント](http://freefonts.jp/font-koku-min.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。
@@ -1903,7 +1904,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-062.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-062.png)
 
 [刻丸明朝かな](http://freefonts.jp/font-koku-marumin.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1911,7 +1912,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-063.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-063.png)
 
 [ほのか新明朝](http://font.gloomy.jp/honoka-mincho-dl.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1920,7 +1921,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-064.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-064.png)
 
 [源様明朝](https://github.com/ButTaiwan/genyo-font)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1929,7 +1930,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-065.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-065.png)
 
 [源流明朝](https://github.com/ButTaiwan/genryu-font)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1938,7 +1939,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-586.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-586.png)
 
 [源雲明朝](https://github.com/ButTaiwan/genwan-font)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1947,7 +1948,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-552.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-552.png)
 
 [瀞ノグリッチ明朝](https://microraptor.booth.pm/items/3041172)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1956,7 +1957,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-623.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-623.png)
 
 [瞬きノ明朝](https://flopdesign.booth.pm/items/3793828)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1965,7 +1966,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-066.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-066.png)
 
 [廻募（エモ）](https://flopdesign.booth.pm/items/1157087)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -1975,7 +1976,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-067.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-067.png)
 
 [姫明朝ともえごぜん mini](https://www.flopdesign.com/himemincho-font/tomoegozen.html)  
 個人で無料利用可、非営利の同人誌や各種印刷物なども可。  
@@ -1985,7 +1986,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-068.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-068.png)
 
 [姫明朝しらゆきmini](https://www.flopdesign.com/himemincho-font/shirayuki.html)  
 個人で無料利用可、非営利の同人誌や各種印刷物なども可。  
@@ -1995,7 +1996,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-069.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-069.png)
 
 [うつくし明朝体](https://www.flopdesign.com/freefont/utsukushi-mincho-font.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2003,7 +2004,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-072.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-072.png)
 
 [アプリ明朝](https://www.flopdesign.com/blog/font/5852/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2012,7 +2013,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-423.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-423.png)
 
 [異世明・異世ゴ](https://flopdesign.booth.pm/items/2291468)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2021,7 +2022,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-070.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-070.png)
 
 [源界明朝](https://flopdesign.booth.pm/items/1028548)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2030,7 +2031,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-071.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-071.png)
 
 [装甲明朝](https://booth.pm/ja/items/1028555)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2039,7 +2040,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-436.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-436.png)
 
 [略字超少明朝穴](https://nukosuki.booth.pm/items/1534386)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2048,7 +2049,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-437.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-437.png)
 
 [略字超少明朝ステンシル風](https://nukosuki.booth.pm/items/1919695)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2057,7 +2058,7 @@ Typekit経由で利用: [源ノ明朝 -Typekit](https://fonts.adobe.com/fonts/so
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-073.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-073.png)
 
 [花園明朝](https://glyphwiki.org/hanazono/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2066,7 +2067,7 @@ ISO/IEC 10646およびUnicodeの全漢字9万字以上を収録、「渡辺」�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-711.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-711.png)
 
 [字雲フォント](https://kamichikoichi.github.io/jigmo/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2075,7 +2076,7 @@ ISO/IEC 10646およびUnicodeの全漢字9万字以上を収録、「渡辺」�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-075.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-075.png)
 
 [出島明朝フォント](https://code.google.com/archive/p/dejima-fonts/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2083,7 +2084,7 @@ ISO/IEC 10646およびUnicodeの全漢字9万字以上を収録、「渡辺」�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-076.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-076.png)
 
 さわらびフォント  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2095,7 +2096,7 @@ Google Fontsにも登場しました。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-417.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-417.png)
 
 [ぬばたまおためしばん](https://n-yuji.info/index.php/totika-font2)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2104,7 +2105,7 @@ Google Fontsにも登場しました。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-584.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-584.png)
 
 [千古明朝（お試し版）](https://fontdasu.com/3183)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2116,7 +2117,7 @@ Google Fontsにも登場しました。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-077.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-077.png)
 
 [しっぽりアンチック v2](http://fontdasu.com/1460)  
 [ShipporiAntique -GitHub](https://github.com/fontdasu/ShipporiAntique)  
@@ -2129,7 +2130,7 @@ Google Fontsにも登場しました。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-377.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-377.png)
 
 [F910新コミック体](http://www.font910.jp/font-list/conposite-comic.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2139,7 +2140,7 @@ Google Fontsにも登場しました。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-078.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-078.png)
 
 [やさしさアンチック](http://www.fontna.com/blog/1122/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2147,7 +2148,7 @@ Google Fontsにも登場しました。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-079.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-079.png)
 
 [ラノベPOP V2](http://www.fontna.com/blog/1706/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2156,7 +2157,7 @@ Google Fontsにも登場しました。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-604.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-604.png)
 
 [びぜんアンチック](https://okoneya.jp/font/download.html#dl-BIZenA)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2165,7 +2166,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-670.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-670.png)
 
 [源暎ぽっぷる](https://okoneya.jp/font/genei-pople.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2174,7 +2175,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-080.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-080.png)
 
 [源暎こぶり明朝](https://okoneya.jp/font/genei-koburimin.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2184,7 +2185,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-379.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-379.png)
 
 [源暎ちくご明朝](https://okoneya.jp/font/genei-chikumin.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2195,7 +2196,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-081.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-081.png)
 
 [源暎アンチック](https://okoneya.jp/font/genei-antique.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2204,7 +2205,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-444.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-444.png)
 
 [源暎エムゴ](https://okoneya.jp/font/genei-m-gothic.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2214,7 +2215,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-082.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-082.png)
 
 [源暎Nuゴシック](https://okoneya.jp/font/genei-nu-gothic.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2223,7 +2224,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-083.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-083.png)
 
 [源暎ラテゴ/ラテミン](https://okoneya.jp/font/genei-latin.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2232,7 +2233,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-084.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-084.png)
 
 [源暎ノンブル](https://okoneya.jp/font/download.html#dl-genb)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2241,7 +2242,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-380.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-380.png)
 
 [源暎ブライス](https://okoneya.jp/font/download.html#dl-gebr)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2250,7 +2251,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-085.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-085.png)
 
 [源暎ゴシック P/N/M](https://okoneya.jp/font/genei-gothic.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2259,7 +2260,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-086.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-086.png)
 
 [源暎ゴシック N-KL](https://okoneya.jp/font/genei-gothic-kl.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2269,7 +2270,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-088.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-088.png)
 
 [GL-アンチック](https://github.com/Gutenberg-Labo/GL-Antique)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2278,7 +2279,7 @@ MORISAWA BIZ UDゴシックを使用したマンガや同人誌などのト書�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-089.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-089.png)
 
 [GL-アンチックPlus](https://github.com/Gutenberg-Labo/GL-Antique)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2287,7 +2288,7 @@ GL-アンチックにM+ FONTSの漢字を合成したフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-087.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-087.png)
 
 [GL-オとマのペ -GitHub](https://github.com/Gutenberg-Labo/Otomanopee)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2297,7 +2298,7 @@ GL-アンチックにM+ FONTSの漢字を合成したフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-661.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-661.png)
 
 [効果音フォント](http://www.manga-sozai.com/data/koukaonfont)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2306,7 +2307,7 @@ GL-アンチックにM+ FONTSの漢字を合成したフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-090.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-090.png)
 
 [g\_コミックホラー恐怖(R)](https://material.animehack.jp/font_gcomichorror.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2315,7 +2316,7 @@ GL-アンチックにM+ FONTSの漢字を合成したフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-091.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-091.png)
 
 [g\_コミックホラー悪党(B)](https://material.animehack.jp/font_gcomichorrorB.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2324,7 +2325,7 @@ GL-アンチックにM+ FONTSの漢字を合成したフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-092.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-092.png)
 
 [g\_コミック古印体](https://material.animehack.jp/font_gcomickoin.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2333,7 +2334,7 @@ GL-アンチックにM+ FONTSの漢字を合成したフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-093.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-093.png)
 
 [g\_コミック古印体nocutかな](https://material.animehack.jp/font_gcomickoin.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2343,7 +2344,7 @@ g\_コミック古印体の切り込み部分を削除し、線をなめらか�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-094.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-094.png)
 
 [g\_丸かな体](https://material.animehack.jp/font_gcomickoin.html)（ページの下の方）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2353,7 +2354,7 @@ g\_コミック古印体を太くなめらかに丸めたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-095.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-095.png)
 
 [g\_達筆(笑)](https://material.animehack.jp/font_gbrushtappitsu.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2362,7 +2363,7 @@ g\_コミック古印体を太くなめらかに丸めたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-096.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-096.png)
 
 [g\_えんぴつ楷書フォント-教漢版](https://material.animehack.jp/font_gpencilkaisho.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2371,7 +2372,7 @@ g\_コミック古印体を太くなめらかに丸めたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-097.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-097.png)
 
 [g\_やぐら（太手書き角）フォント（無料版）](https://material.animehack.jp/font_gsquarebold.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2380,7 +2381,7 @@ g\_コミック古印体を太くなめらかに丸めたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-098.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-098.png)
 
 [g\_いろりフォント（プレビュー版）](https://material.animehack.jp/font_groundbold.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2389,7 +2390,7 @@ g\_やぐらと同シリーズのこちらは丸文字フォント。文字の�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-099.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-099.png)
 
 [g\_GEOねこもじ](https://material.animehack.jp/font_ggeonekomoji.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2398,7 +2399,7 @@ g\_やぐらと同シリーズのこちらは丸文字フォント。文字の�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-587.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-587.png)
 
 [ねこもじ](https://nekomoji.booth.pm/items/14614)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2407,7 +2408,7 @@ g\_やぐらと同シリーズのこちらは丸文字フォント。文字の�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-101.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-101.png)
 
 [ぬかみそフォント](http://d.hatena.ne.jp/Narr/20151231)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2417,7 +2418,7 @@ g\_やぐらと同シリーズのこちらは丸文字フォント。文字の�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-476.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-476.png)
 
 [にしき的フォント](https://umihotaru.work/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2427,7 +2428,7 @@ g\_やぐらと同シリーズのこちらは丸文字フォント。文字の�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-705.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-705.png)
 
 [コブラフォントアドベンチャー](https://webayan39.com/font/2726/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2436,7 +2437,7 @@ g\_やぐらと同シリーズのこちらは丸文字フォント。文字の�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-651.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-651.png)
 
 [ドカベンフォント](https://webayan39.com/font/1996/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2445,7 +2446,7 @@ g\_やぐらと同シリーズのこちらは丸文字フォント。文字の�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-646.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-646.png)
 
 [もじさんじ](https://webayan39.com/font/1841/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2455,7 +2456,7 @@ g\_やぐらと同シリーズのこちらは丸文字フォント。文字の�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-635.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-635.png)
 
 [FONPLEX](https://webayan39.com/font/1747/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2465,7 +2466,7 @@ COMPLEXのロゴにインスパイアされた英字フォント、「日本一�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-631.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-631.png)
 
 [タッチフォント](https://webayan39.com/font/1622/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2475,7 +2476,7 @@ COMPLEXのロゴにインスパイアされた英字フォント、「日本一�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-462.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-462.png)
 
 [コブラフォント](https://webayan39.com/font/20/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2485,7 +2486,7 @@ COMPLEXのロゴにインスパイアされた英字フォント、「日本一�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-463.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-463.png)
 
 [コマンドーフォント](https://webayan39.com/font/23/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2495,7 +2496,7 @@ COMPLEXのロゴにインスパイアされた英字フォント、「日本一�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-464.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-464.png)
 
 [デビルマンフォント](https://webayan39.com/font/25/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2505,7 +2506,7 @@ COMPLEXのロゴにインスパイアされた英字フォント、「日本一�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-465.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-465.png)
 
 [バジリスクフォント](https://webayan39.com/font/29/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2515,7 +2516,7 @@ COMPLEXのロゴにインスパイアされた英字フォント、「日本一�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-466.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-466.png)
 
 [屍人ゴシック](https://webayan39.com/font/31/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2525,7 +2526,7 @@ COMPLEXのロゴにインスパイアされた英字フォント、「日本一�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-599.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-599.png)
 
 [XevebaFont(ゼヴェバフォント)](https://webayan39.com/font/1341/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2535,7 +2536,7 @@ COMPLEXのロゴにインスパイアされた英字フォント、「日本一�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-546.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-546.png)
 
 [ウマ娘ゴシック](https://webayan39.com/font/82/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2545,7 +2546,7 @@ COMPLEXのロゴにインスパイアされた英字フォント、「日本一�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-564.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-564.png)
 
 [ウマこゴ](https://nukosuki.booth.pm/items/2873062)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2554,7 +2555,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-598.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-598.png)
 
 [ウマとにんじんフォント](https://letourdefrance.booth.pm/items/3715908)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2563,7 +2564,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-102.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-102.png)
 
 [けいふぉんと！](http://font.sumomo.ne.jp/font_1.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2572,7 +2573,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-103.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-103.png)
 
 [キルゴU](http://getsuren.com/fonts.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2582,7 +2583,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-104.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-104.png)
 
 [カガクゴ](http://getsuren.com/fonts.html)  
 個人・商用サイトで無料利用可（商用は要連絡）。同人誌や各種印刷物なども可。  
@@ -2591,7 +2592,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-105.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-105.png)
 
 [きんいろ書体シリーズ](http://getsuren.com/fonts.html)  
 個人・商用サイトで無料利用可（商用は要連絡）。同人誌や各種印刷物なども可。  
@@ -2600,7 +2601,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-106.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-106.png)
 
 6つ子フォント  
 個人で無料利用可。同人誌や各種印刷物なども可。  
@@ -2609,7 +2610,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-107.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-107.png)
 
 [Evit-logo](https://ricematerial.booth.pm/items/981123)  
 個人で無料利用可、同人誌や各種印刷物なども可。  
@@ -2618,7 +2619,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-404.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-404.png)
 
 [GLT-ごぬんね](https://booth.pm/ja/items/687528)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2627,7 +2628,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-421.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-421.png)
 
 [もじ（「けものフレンズ」ロゴ風フォント）](https://noraglyphs.booth.pm/items/931653)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2636,7 +2637,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-108.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-108.png)
 
 [はらませにゃんこ](http://inatsuka.com/extra/haranyan/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2645,7 +2646,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-109.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-109.png)
 
 [アンニャントロマン](http://inatsuka.com/extra/toroman/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2654,7 +2655,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-110.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-110.png)
 
 [あははもじもじフォント](https://www.flopdesign.com/font7/ahahamojimoji-font.html)  
 個人で無料利用可、商用は有料。  
@@ -2665,7 +2666,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-685.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-685.png)
 
 [晩秋レトロミン](https://suzumi-bato.booth.pm/items/4674383)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2675,7 +2676,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-112.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-112.png)
 
 [Oradano明朝/Oradano明朝GSRRフォント](http://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。フォントの配布・改変も可。  
@@ -2685,7 +2686,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-615.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-615.png)
 
 [字躰帳変体仮名【第一版】](https://hentaigana.booth.pm/items/4889029)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2694,7 +2695,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-113.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-113.png)
 
 [GL-築地初号](https://github.com/Gutenberg-Labo/GL-Tsukiji)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2703,7 +2704,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-114.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-114.png)
 
 [GL-築地二号](https://github.com/Gutenberg-Labo/GL-Tsukiji)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2712,7 +2713,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-115.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-115.png)
 
 [GL-築地三号](https://github.com/Gutenberg-Labo/GL-Tsukiji)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2721,7 +2722,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-116.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-116.png)
 
 [GL-築地四号](https://github.com/Gutenberg-Labo/GL-Tsukiji)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2730,7 +2731,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-117.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-117.png)
 
 [GL-築地五号](https://github.com/Gutenberg-Labo/GL-Tsukiji)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2739,7 +2740,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-581.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-581.png)
 
 [はたレトロ【おためし版】](https://hataretro-font.booth.pm/items/2703180)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2748,7 +2749,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-118.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-118.png)
 
 [むつき](http://mandel59.github.io/mutsuki/index.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2758,7 +2759,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-120.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-120.png)
 
 [大正活字っぽい？フォントT5](https://nukosuki.booth.pm/items/738177)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2767,7 +2768,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-121.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-121.png)
 
 [コーポレート・ロゴ](http://logotype.jp/corporate-logo-font-dl.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2776,7 +2777,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-123.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-123.png)
 
 [コーポレート・ロゴ（ラウンド）](http://logotype.jp/font-corpmaru.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2785,7 +2786,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-124.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-124.png)
 
 [まなびや　さくら＆いちょう](http://modi.jpn.org/font_manabiya.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2794,7 +2795,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-125.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-125.png)
 
 [いろはマル](http://modi.jpn.org/font_irohamaru.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2803,7 +2804,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-126.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-126.png)
 
 [いろは角クラシック](http://modi.jpn.org/font_irohakakuc.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2812,7 +2813,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-127.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-127.png)
 
 [いろはマル みかみ](http://modi.jpn.org/font_irohamaru-mikami.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2821,7 +2822,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-128.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-128.png)
 
 [かんじゅくゴシック](https://www.flopdesign.com/freefont/kanjyukugothic-freefont.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2829,7 +2830,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-425.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-425.png)
 
 [ノンキフォントmini](https://www.flopdesign.com/syotai/nonki.html)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2838,7 +2839,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-429.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-429.png)
 
 [フルーツパーラーmini](https://www.flopdesign.com/syotai/fruitparlorfont.html)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2847,7 +2848,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-129.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-129.png)
 
 [ほのかアンティーク角](http://font.gloomy.jp/honoka-antique-kaku-dl.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2856,7 +2857,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-713.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-713.png)
 
 [ブルズドーナツ mini](http://ymnk-design.com/bullsdonut/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2865,7 +2866,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-689.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-689.png)
 
 [あおさぎ](https://ymnk-design.booth.pm/items/4742238)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2874,7 +2875,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-634.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-634.png)
 
 [ティラノゴチ mini](http://ymnk-design.com/tyranno-gochi/)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2883,7 +2884,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-610.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-610.png)
 
 [金魚ランタン mini](http://ymnk-design.com/kingyo-lantern/)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2892,7 +2893,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-492.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-492.png)
 
 [やわらかドラゴン mini](http://ymnk-design.com/%E3%82%84%E3%82%8F%E3%82%89%E3%81%8B%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2901,7 +2902,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-391.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-391.png)
 
 [ぱぐのみんちょmini](http://ymnk-design.com/pugnomincho/)  
 個人で無料利用可、同人活動に限り営利目的も可。  
@@ -2910,7 +2911,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-392.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-392.png)
 
 [こまどりmini](http://ymnk-design.com/%e3%81%93%e3%81%be%e3%81%a9%e3%82%8a/)  
 個人で無料利用可、同人活動に限り営利目的も可。  
@@ -2919,7 +2920,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-419.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-419.png)
 
 [かなりあmini](http://ymnk-design.com/canary/)  
 個人で無料利用可、同人活動に限り営利目的も可。  
@@ -2928,7 +2929,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-411.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-411.png)
 
 [バナナスリップplus](http://ymnk-design.com/%e3%83%90%e3%83%8a%e3%83%8a%e3%82%b9%e3%83%aa%e3%83%83%e3%83%97/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2938,7 +2939,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-408.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-408.png)
 
 [日共 サン フォント](https://www.fontspace.com/daredemotypo/nikkyou-sans)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2949,7 +2950,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-543.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-543.png)
 
 [クラフト明朝](https://atelierkotatu.booth.pm/items/3308018)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2958,7 +2959,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-544.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-544.png)
 
 [かいじゅうフォント](https://atelierkotatu.booth.pm/items/2582464)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2967,7 +2968,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-545.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-545.png)
 
 [かりぐらスキップ](https://atelierkotatu.booth.pm/items/2318514)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2976,7 +2977,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-626.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-626.png)
 
 [親愛なるあなたへ](https://raymei.booth.pm/items/3866798)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2985,7 +2986,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-657.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-657.png)
 
 [全員集合！ポップ体](https://mikannnoki-font.booth.pm/items/4356584)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -2994,7 +2995,7 @@ M+1pの「馬」を持つ漢字の「馬」をウマ娘仕様にしたフォン�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-641.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-641.png)
 
 [NHKの時刻表示フォント](https://aoi-tomoe-shop.booth.pm/items/4137687)  
 個人サイトで無料利用可。  
@@ -3003,7 +3004,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-399.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-399.png)
 
 [焔明朝フォント](https://fontgraphic.jp/fg-homura)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3014,7 +3015,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-420.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-420.png)
 
 [焚火フォント](https://fontgraphic.jp/takibifont)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3024,7 +3025,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-400.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-400.png)
 
 [棘ゴシックフォント](https://fontgraphic.jp/togegothic)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3034,7 +3035,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-401.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-401.png)
 
 [棘薔薇フォント](https://fontgraphic.jp/fgtogebara)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3044,7 +3045,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-402.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-402.png)
 
 [FGミディアムオールド半角](https://fontgraphic.jp/fgmediumoldhankaku)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3054,7 +3055,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-403.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-403.png)
 
 [FGゼロラバウル](https://fontgraphic.jp/fg_zerorabaul)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3064,7 +3065,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-682.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-682.png)
 
 [ユムール](https://moji-waku.com/humour/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3073,7 +3074,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-675.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-675.png)
 
 [金畫字](https://moji-waku.com/kinkaku/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3083,7 +3084,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-427.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-427.png)
 
 [マメロン Hi-Regular](https://moji-waku.com/mamelon/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3092,7 +3093,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-504.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-504.png)
 
 [廻想体 ネクスト ユーピーB](https://moji-waku.com/kaiso/index.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3101,7 +3102,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-443.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-443.png)
 
 [トガリテ ver2.0](https://moji-waku.com/togalite/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3111,7 +3112,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-396.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-396.png)
 
 [マキナス 4 Flat](https://moji-waku.com/makinas/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3121,7 +3122,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-397.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-397.png)
 
 [マキナス 4 Square](https://moji-waku.com/makinas/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3131,7 +3132,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-130.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-130.png)
 
 [ポプらむ☆キュート](https://moji-waku.com/poprumcute/index.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3142,7 +3143,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-131.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-131.png)
 
 [ピグモ00](https://moji-waku.com/pigmo/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3152,7 +3153,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-132.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-132.png)
 
 [ピグモ01](https://moji-waku.com/pigmo01/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3161,7 +3162,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-133.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-133.png)
 
 [廻想体](https://moji-waku.com/kaiso/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3172,7 +3173,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-134.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-134.png)
 
 [ロンドB](https://moji-waku.com/ronde/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。
@@ -3182,7 +3183,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-515.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-515.png)
 
 [きょうりゅうのグラタン](https://sagamiriku.wixsite.com/rikugamenodoria/shop)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3191,7 +3192,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-135.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-135.png)
 
 [数式フォント](https://kiyumaya.booth.pm/items/3723139)  
 個人・商用サイトで無料利用可（商用は要連絡）。同人誌や各種印刷物なども可。  
@@ -3201,7 +3202,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-136.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-136.png)
 
 [数式フォント難解](https://kiyumaya.booth.pm/items/3723432)  
 個人・商用サイトで無料利用可（商用は要連絡）。同人誌や各種印刷物なども可。  
@@ -3210,7 +3211,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-137.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-137.png)
 
 [みつバッチフォント](https://kiyumaya.booth.pm/items/3723426)  
 個人・商用サイトで無料利用可（商用は要連絡）。同人誌や各種印刷物なども可。  
@@ -3219,7 +3220,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-138.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-138.png)
 
 [どくむぎ](https://aramugi.com/?page_id=5640)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3229,7 +3230,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-139.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-139.png)
 
 [叛逆明朝](https://www.fontspace.com/daredemotypo/hangyaku)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3242,7 +3243,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-141.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-141.png)
 
 [スナップP](https://font.sleepcows.com/snap_p.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3251,7 +3252,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-706.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-706.png)
 
 [ビルの谷間と高架下](https://typingart.booth.pm/items/5199816)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3260,7 +3261,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-684.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-684.png)
 
 [鉄路タイプフェイス](https://typingart.booth.pm/items/4678935)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3269,7 +3270,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-650.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-650.png)
 
 [うさぎとまんげつのサンセリフ フリー版](https://typingart.booth.pm/items/4117271)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3278,7 +3279,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-533.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-533.png)
 
 [藍と白のゆきぐに フリー版](https://typingart.booth.pm/items/3054852)  
 個人サイトで無料利用可。  
@@ -3287,7 +3288,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-424.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-424.png)
 
 [海と山のろごごち フリー版](https://typingart.booth.pm/items/2330628)  
 個人サイトで無料利用可。  
@@ -3296,7 +3297,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-142.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-142.png)
 
 [Fontopo にほんご](https://fontopo.com/?p=89)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3304,7 +3305,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-143.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-143.png)
 
 [ふぉんとうは怖い明朝体](http://www.fontna.com/blog/1371/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3312,7 +3313,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-144.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-144.png)
 
 [にくまるフォント](http://www.fontna.com/freefont/1651/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3320,7 +3321,7 @@ NHKで画面左上に表示される時刻表示にインスパイアされた�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-145.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-145.png)
 
 Cheekふぉんと  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3329,7 +3330,7 @@ Cheekふぉんと
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-149.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-149.png)
 
 [しろくまフォント](https://www.lazypolarbear.com/entry/font-shirokuma)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3339,7 +3340,7 @@ Cheekふぉんと
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-150.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-150.png)
 
 [棘丸ゴシック](https://okoneya.jp/font/download.html#dl-tgmrg)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3348,7 +3349,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-151.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-151.png)
 
 [黒薔薇ゴシック](http://modi.jpn.org/font_kurobara-gothic.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3357,7 +3358,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-153.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-153.png)
 
 [黒薔薇シンデレラ&赤薔薇シンデレラ](http://modi.jpn.org/font_amemuchi-cinderella.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3365,7 +3366,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-152.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-152.png)
 
 [トゲトゲロック](https://nippori30.booth.pm/items/4144426)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3374,7 +3375,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-580.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-580.png)
 
 [継ぎ接ぎぱっち](https://vo8ov.booth.pm/items/2968703)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3383,7 +3384,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-154.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-154.png)
 
 [ミウラLinerOtf Jr R](https://mopstudio.jp/font)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3392,7 +3393,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-155.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-155.png)
 
 [ミウラゴチック プロポ Jr R](https://mopstudio.jp/font)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3401,7 +3402,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-441.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-441.png)
 
 [シャープ旧ロゴ文字](https://mikannnoki-font.booth.pm/items/1648901)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3411,7 +3412,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-156.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-156.png)
 
 チェックポイント  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3424,7 +3425,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-157.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-157.png)
 
 チェックポイント★リベンジ  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3438,7 +3439,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-158.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-158.png)
 
 チェックポイント．（ピリオド）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3451,7 +3452,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-562.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-562.png)
 
 [ハーフトーンFont](https://huwahuwa.ff-design.net/halftonefont/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3460,7 +3461,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-563.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-563.png)
 
 [もっくもくもフォント](https://huwahuwa.ff-design.net/%e3%82%82%e3%81%a3%e3%81%8f%e3%82%82%e3%81%8f%e3%82%82%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3469,7 +3470,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-159.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-159.png)
 
 [ほそふわフォント](https://huwahuwa.ff-design.net/%e3%81%bb%e3%81%9d%e3%81%b5%e3%82%8f%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3478,7 +3479,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-160.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-160.png)
 
 [ふんわりうさぎフォント](http://umn02.blog.fc2.com/blog-entry-2.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3487,7 +3488,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-669.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-669.png)
 
 [まるまるっかな lite](https://palettype.booth.pm/items/4502350)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3496,7 +3497,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-644.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-644.png)
 
 [つのなホルンlite](https://palettype.booth.pm/items/4191973)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3505,7 +3506,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-161.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-161.png)
 
 [うたミンフォント小2版](https://palettype.booth.pm/items/180773)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3515,7 +3516,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-611.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-611.png)
 
 [うたサンかな-まるL](https://palettype.booth.pm/items/1182070)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3524,7 +3525,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-162.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-162.png)
 
 [うたミン「ほし0」](https://palettype.booth.pm/items/318510)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3532,7 +3533,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-490.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-490.png)
 
 [うたミン「ゆき0」](https://palettype.booth.pm/items/2727669)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3541,7 +3542,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-415.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-415.png)
 
 [雪ファンテール 無料版](https://booth.pm/ja/items/1503511)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3551,7 +3552,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-163.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-163.png)
 
 [まるっかなS-w9](https://palettype.booth.pm/items/14528)  
 個人サイトで無料利用可。非営利の同人誌や各種印刷物なども可。  
@@ -3560,7 +3561,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-164.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-164.png)
 
 [19seg box](http://palettype.cogoe.jp/19seg/)  
 個人サイトで無料利用可。非営利の同人誌や各種印刷物なども可。  
@@ -3569,7 +3570,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-165.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-165.png)
 
 [ニコモジ＋（プラス）](http://nicofont.pupu.jp/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3578,7 +3579,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-166.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-166.png)
 
 [ニコ角＋フォント](http://nicofont.pupu.jp/nicokaku-plus.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3587,7 +3588,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-167.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-167.png)
 
 [ニコカ](http://nicofont.pupu.jp/nicoca.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3596,7 +3597,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-681.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-681.png)
 
 [はっぴかな-Free-DB](https://renfont.booth.pm/items/4676006)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3605,7 +3606,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-555.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-555.png)
 
 [清明かな-Free](https://renfont.booth.pm/items/3346065)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3614,7 +3615,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-588.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-588.png)
 
 [ほんまるかな-R-Free](https://renfont.booth.pm/items/3520909)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3623,7 +3624,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-168.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-168.png)
 
 [和音Joyo-R（試用版）](https://www.renfont.com/trialfont.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3633,7 +3634,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-433.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-433.png)
 
 [靜呉竹（試用版）](https://www.renfont.com/trialfont.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3643,7 +3644,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-169.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-169.png)
 
 [勢蓮呉竹トライアル-EL](https://www.renfont.com/trialfont.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3653,7 +3654,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-170.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-170.png)
 
 [勢蓮明朝トライアル-EL](https://www.renfont.com/trialfont.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3663,7 +3664,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-600.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-600.png)
 
 [みぞれ](https://www.type-labo.jp/HanpuMizolet.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3671,7 +3672,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-171.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-171.png)
 
 [えれがんと平成明朝](http://www.type-labo.jp/Hanpuelega.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3679,7 +3680,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-172.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-172.png)
 
 [ルイカ](http://www.type-labo.jp/Hanpuruika.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3687,7 +3688,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-173.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-173.png)
 
 [わんぱくルイカ](http://www.type-labo.jp/Hanpuwanpaku.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3695,7 +3696,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-174.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-174.png)
 
 [あられ](http://www.type-labo.jp/Hanpuaralet.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3703,7 +3704,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-175.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-175.png)
 
 [アニト](http://www.type-labo.jp/Hanpuanito.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3711,7 +3712,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-176.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-176.png)
 
 [キャパニト](http://www.type-labo.jp/Hanpu.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3719,7 +3720,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-177.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-177.png)
 
 [セプテンバーN](http://www.type-labo.jp/HanpuseptN.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3727,7 +3728,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-178.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-178.png)
 
 [ハッピールイカ](http://www.type-labo.jp/Hanpuhappy.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3735,7 +3736,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-179.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-179.png)
 
 [墨東ルイカ](http://www.type-labo.jp/Hanpubokuruika.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3743,7 +3744,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-180.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-180.png)
 
 [えれがんと](http://www.type-labo.jp/Hanpuelega.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3751,7 +3752,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-556.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-556.png)
 
 [モノピン](https://www.type-labo.jp/HanpuMonopiN.html)（無料お試し版）  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3759,7 +3760,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-557.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-557.png)
 
 [id-角ゴジ](https://idfont.jp/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3767,7 +3768,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-558.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-558.png)
 
 [id-壊雲体](https://idfont.jp/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3775,7 +3776,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-181.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-181.png)
 
 [id-ぽっぷまる](https://idfont.jp/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3783,7 +3784,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-182.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-182.png)
 
 [id-ぽっぷふとまる](https://idfont.jp/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3791,7 +3792,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-183.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-183.png)
 
 [id-懐雲体](https://idfont.jp/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3799,7 +3800,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-184.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-184.png)
 
 しねきゃぷしょん  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3809,7 +3810,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-185.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-185.png)
 
 [DiaPro](http://but.tw/font/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。
@@ -3819,7 +3820,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-694.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-694.png)
 
 [TRTA Numbers](https://github.com/ryo-a/TRTA-Numbers-Font)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3828,7 +3829,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-518.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-518.png)
 
 [天浜線フォント](http://www.hama365.info/tenhamasenfont/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3837,7 +3838,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-479.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-479.png)
 
 作字鉄道書体  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3848,7 +3849,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-456.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-456.png)
 
 [ウソ電フォント - Kokutetsu](https://soft.2pd.jp/fonts/usoden-kokutetsu/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3858,7 +3859,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-186.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-186.png)
 
 西日本方向幕ロゴ  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3868,7 +3869,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-187.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-187.png)
 
 [大阪市営地下鉄フォント](http://tabi-mo.travel.coocan.jp/font.htm)  
 個人・商用（要事前連絡）サイトで無料利用可。  
@@ -3877,7 +3878,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-188.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-188.png)
 
 [GD-高速道路ゴシックJA](https://542.jp/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可（一報大歓迎）。  
@@ -3887,7 +3888,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-189.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-189.png)
 
 [イマジン・ヨコハマフォント](https://www.city.yokohama.lg.jp/kanko-bunka/miryoku/openyokohama/process/torikumi/font.html)  
 横浜の市および区だけの漢字が含まれたヨコハマをイメージした市公認フォント。  
@@ -3897,7 +3898,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-190.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-190.png)
 
 [Ikaho（伊香保）フォント](http://mksd.jp/ikaho.html)  
 個人・商用サイトで無料利用可（商用は要連絡）同人誌や各種印刷物なども可。  
@@ -3906,7 +3907,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-191.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-191.png)
 
 [Shima（四万）フォント](http://mksd.jp/shima_hr.html)  
 個人・商用サイトで無料利用可（商用は要連絡）同人誌や各種印刷物なども可。  
@@ -3915,7 +3916,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-192.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-192.png)
 
 [Isobe（磯部）フォント](http://mksd.jp/isobe_hr.html)  
 個人・商用サイトで無料利用可（商用は要連絡）同人誌や各種印刷物なども可。  
@@ -3924,7 +3925,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-193.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-193.png)
 
 [Minakami（水上）フォント](http://mksd.jp/minakami.html)  
 個人・商用サイトで無料利用可（商用は要連絡）同人誌や各種印刷物なども可。  
@@ -3933,7 +3934,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-194.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-194.png)
 
 [Holiday](http://mksd.jp/holiday05.html)  
 個人・商用（要連絡）サイトで無料利用可。  
@@ -3941,7 +3942,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-195.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-195.png)
 
 [怨霊フォント](http://www.ankokukoubou.com/font/onryou.htm)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3954,7 +3955,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-196.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-196.png)
 
 [吐き溜](http://www.ankokukoubou.com/font/hakidame.htm)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3967,7 +3968,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-197.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-197.png)
 
 [暗黒ゾン字](http://www.ankokukoubou.com/font/ankokuzonji.htm)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3979,7 +3980,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-198.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-198.png)
 
 [切絵字](https://fub.booth.pm/items/2449888)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3989,7 +3990,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-199.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-199.png)
 
 [水面字](https://fub.booth.pm/items/2451474)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -3999,7 +4000,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-200.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-200.png)
 
 [モフ字](https://fub.booth.pm/items/2449861)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4009,7 +4010,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-201.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-201.png)
 
 [イバラ字](https://fub.booth.pm/items/2451506)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4019,7 +4020,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-435.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-435.png)
 
 [きらら字](https://fub.booth.pm/items/2463059)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4028,7 +4029,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-202.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-202.png)
 
 [自由の翼フォント](https://tanukifont.com/jiyu-no-tsubasa/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4038,7 +4039,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-203.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-203.png)
 
 [エセナパＪ](https://tanukifont.com/esenapaj/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4048,7 +4049,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-431.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-431.png)
 
 [あかずきんポップ](https://flopdesign.booth.pm/items/1748058)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4057,7 +4058,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-386.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-386.png)
 
 [FZイモケンピ](http://zone108.main.jp/font/fz-imokenpi.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4065,7 +4066,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-452.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-452.png)
 
 [プイッコ](https://aratakana.booth.pm/items/2094461)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4077,7 +4078,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-672.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-672.png)
 
 [しょかきペン体楷行草](https://shokaki.booth.pm/items/4543906)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4086,7 +4087,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-624.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-624.png)
 
 [しょかき楷月（無料版）](https://shokaki.booth.pm/items/1799480)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4096,7 +4097,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-291.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-291.png)
 
 [しょかきさらり（行体）](https://shokaki.booth.pm/items/2199202)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4105,7 +4106,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-204.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-204.png)
 
 瀬戸フォント  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4117,7 +4118,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-205.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-205.png)
 
 [瀬戸フォント -SP](https://sourceforge.jp/projects/setofont/releases/)  
 瀬戸フォントの軽量版、スマフォのフォントに使いたい人用。漢字はJIS第一・第二水準・IBM拡張とUnicodeをつかった顔文字に対応。  
@@ -4128,7 +4129,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-696.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-696.png)
 
 [藍原サインペン（フリー版）](https://faraway.booth.pm/items/82611)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4137,7 +4138,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-628.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-628.png)
 
 [西島式手書きフォント](https://nenerab.booth.pm/items/3861821)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4146,7 +4147,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-625.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-625.png)
 
 [アオハルマーカーmini](https://monachiba.booth.pm/items/3842233)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4155,7 +4156,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-532.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-532.png)
 
 [Xim Sans 手書き風](https://ximco.hatenablog.com/entry/2022/12/08/215019)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4165,7 +4166,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-566.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-566.png)
 
 [医者の手書きフォント](https://fujiwaram.com/archives/1001)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4174,7 +4175,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-207.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-207.png)
 
 [Kゴシック](https://booth.pm/ja/items/1025180)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4184,7 +4185,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-559.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-559.png)
 
 [アイシングソーダ2](https://berry-milk-sugar.booth.pm/items/3221086)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4194,7 +4195,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-214.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-214.png)
 
 [りいてがきN](http://aoirii.babyblue.jp/font/riitn/index.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4205,7 +4206,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-219.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-219.png)
 
 ぎゃーてーるみねっせんす  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4219,7 +4220,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-220.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-220.png)
 
 じゆうちょうフォント  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4234,7 +4235,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-224.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-224.png)
 
 [ちはや純](https://welina.xyz/font/tegaki/%E3%81%A1%E3%81%AF%E3%82%84%E7%B4%94/)  
 個人・商用サイトで無料利用可（商用は要連絡）。同人誌や各種印刷物なども可。  
@@ -4244,7 +4245,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-235.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-235.png)
 
 [851手書き雑フォント](https://pm85122.onamae.jp/851fontpage.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4253,7 +4254,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-699.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-699.png)
 
 [さなフォン](https://hearttome.com/fonts/sanafon/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4263,7 +4264,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-259.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-259.png)
 
 [kawaii手書き文字](http://font.spicy-sweet.com/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4273,7 +4274,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-262.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-262.png)
 
 [あんずもじ2020、あんずもじ等幅2020](http://www8.plala.or.jp/p_dolce/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4282,7 +4283,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-266.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-266.png)
 
 [KFひま字](https://www.kfstudio.net/font/kfhimaji/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4292,7 +4293,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-445.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-445.png)
 
 [ささがきフォント](https://booth.pm/ja/items/1930534)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4301,7 +4302,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-446.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-446.png)
 
 [フランボわーず](https://booth.pm/ja/items/2191504)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4323,7 +4324,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-453.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-453.png)
 
 [玉ねぎ楷書無料版](https://booth.pm/ja/items/1948683)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4332,7 +4333,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-640.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-640.png)
 
 [しょかき ささぶね（無料版）](https://shokaki.booth.pm/items/4097318)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4342,7 +4343,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-405.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-405.png)
 
 [しょかきうたげ（無料版）](https://shokaki.booth.pm/items/1492419)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4352,7 +4353,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-422.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-422.png)
 
 [しょかき鱗片（無料版）](https://shokaki.booth.pm/items/2197873)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4361,7 +4362,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-287.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-287.png)
 
 [藍原筆文字楷書](https://faraway.work/font.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4371,7 +4372,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-288.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-288.png)
 
 [があた草書](https://nukosuki.booth.pm/items/318557)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4379,7 +4380,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-292.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-292.png)
 
 [ジンへな墨流-RCF](http://zinsta.jp/font/freefont.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4388,7 +4389,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-298.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-298.png)
 
 [春：お祝いフォント](http://www.hakusyu.com/download_shiki_spring.htm)  
 個人・商用サイトで無料利用可（商用は要事前連絡）。同人誌や各種印刷物なども可。  
@@ -4397,7 +4398,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-301.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-301.png)
 
 [冬：年賀状フォント](http://www.hakusyu.com/download_shiki_winter.php)  
 個人・商用サイトで無料利用可（商用は要事前連絡）。同人誌や各種印刷物なども可。  
@@ -4406,7 +4407,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-302.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-302.png)
 
 花鳥風月  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4414,7 +4415,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-303.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-303.png)
 
 春夏秋冬  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4422,7 +4423,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-304.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-304.png)
 
 清風明月  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4430,7 +4431,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-305.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-305.png)
 
 [衡山毛筆フォント](https://opentype.jp/kouzanmouhitufont.htm)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4438,7 +4439,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-307.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-307.png)
 
 [青柳疎石フォント](https://opentype.jp/aoyagisosekifont.htm)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4458,7 +4459,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-632.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-632.png)
 
 [240MKSD](https://mksd.jp/240mksd.html)  
 個人・商用サイトで無料利用可（商用は要連絡）同人誌や各種印刷物なども可。  
@@ -4467,7 +4468,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-652.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-652.png)
 
 [りんごひめ](https://ilamemo.booth.pm/items/4275601)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4476,7 +4477,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-659.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-659.png)
 
 [ソㇿマ](https://angelvibes.booth.pm/items/4167818)  
 個人で無料利用可、同人誌や各種印刷物なども可。  
@@ -4485,7 +4486,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-312.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-312.png)
 
 [マカロ](https://angelvibes.booth.pm/items/1134139)  
 個人で無料利用可、同人誌や各種印刷物なども可。  
@@ -4494,7 +4495,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-313.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-313.png)
 
 [アリッコ](https://angelvibes.booth.pm/items/1134054)  
 個人で無料利用可、同人誌や各種印刷物なども可。  
@@ -4503,7 +4504,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-648.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-648.png)
 
 [靜明朝大かな-R-Free](https://renfont.booth.pm/items/4315600)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4512,7 +4513,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-649.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-649.png)
 
 [靜明朝小かな-R-Free](https://renfont.booth.pm/items/4315588)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4521,7 +4522,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-630.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-630.png)
 
 [余韻かな -R-Free](https://renfont.booth.pm/items/3894935)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4530,7 +4531,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-710.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-710.png)
 
 [プティング Free](https://toktaro.booth.pm/items/5235675)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4539,7 +4540,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-700.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-700.png)
 
 [なぎの](https://microraptor.booth.pm/items/5010245)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4548,7 +4549,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-686.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-686.png)
 
 [ぎっしりフォント](https://keisukechiba.booth.pm/items/4652044)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4558,7 +4559,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-687.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-687.png)
 
 [だてまきフォント](https://keisukechiba.booth.pm/items/3970640)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4567,7 +4568,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-594.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-594.png)
 
 [きらめきレトロ](https://yakishake01.booth.pm/items/3596516)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4576,7 +4577,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-658.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-658.png)
 
 [キッチンカタカナ](https://mikannnoki-font.booth.pm/items/3356636)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4585,7 +4586,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-695.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-695.png)
 
 [メロディライン 無料版](https://atelierkotatu.booth.pm/items/4983846)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4594,7 +4595,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-596.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-596.png)
 
 [子パンダフォント](https://atelierkotatu.booth.pm/items/3689711)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4603,7 +4604,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-582.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-582.png)
 
 [しあげるフォント](https://ayanoroom.booth.pm/items/2648054)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4612,7 +4613,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-668.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-668.png)
 
 [Gingo Font AFC100-50](https://amaridesign.booth.pm/items/4442310)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4621,7 +4622,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-667.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-667.png)
 
 [Luck Font AFC100-22](https://amaridesign.booth.pm/items/4420662)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4630,7 +4631,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-665.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-665.png)
 
 [ヘキサデビル](https://orange634nty.booth.pm/items/4448378)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4639,7 +4640,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-709.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-709.png)
 
 [はゆフォント](https://dae.booth.pm/items/5189648)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4648,7 +4649,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-691.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-691.png)
 
 [スズシロ](https://zipangcomplex.booth.pm/items/4891988)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4657,7 +4658,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-636.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-636.png)
 
 [あこがれのまるもじ](https://nukosuki.booth.pm/items/3947794)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4666,7 +4667,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-633.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-633.png)
 
 [まっつん丸の侍魂ふぉんと](https://mattsun-maru.booth.pm/items/3977347)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4676,7 +4677,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-595.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-595.png)
 
 [レトロランプフォント](https://mattsun-maru.booth.pm/items/3592632)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4686,7 +4687,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-621.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-621.png)
 
 [一筆足らずフォント](https://mattsun-maru.booth.pm/items/3635420)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4696,7 +4697,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-622.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-622.png)
 
 [あたまでっかちフォント](https://mattsun-maru.booth.pm/items/3616379)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4706,7 +4707,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-627.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-627.png)
 
 [アンティリム](https://ryo9tya.booth.pm/items/3886127)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4715,7 +4716,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-560.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-560.png)
 
 [Nu ワッカオイ](https://sayunu.booth.pm/items/804000)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4724,7 +4725,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-378.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-378.png)
 
 [TowerGothic KT](http://www.font910.jp/font-list/1byte01.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4733,7 +4734,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-314.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-314.png)
 
 [mini-わくわく](http://mini-design.jp/font/mini-wakuwaku.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4742,7 +4743,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-315.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-315.png)
 
 [mini-コンビニ](http://mini-design.jp/font/mini-convenie.html)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4751,7 +4752,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-316.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-316.png)
 
 [ぐずりふぉんと一年生](https://lollistore.booth.pm/items/3575686)  
 6才なので、むずかしいかん字はわかりません。  
@@ -4762,7 +4763,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-317.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-317.png)
 
 [ふんわりランド](http://suzukimemo.com/post-1302/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4771,7 +4772,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-409.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-409.png)
 
 フラフィーまんまるゴシック  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4780,7 +4781,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-442.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-442.png)
 
 フラフィーなちゅらるハート  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4789,7 +4790,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-318.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-318.png)
 
 [らっかせい](https://sayunu.booth.pm/items/802912)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4798,7 +4799,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-319.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-319.png)
 
 [ショウワノニヲイ](https://huwahuwa.ff-design.net/56/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4807,7 +4808,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-320.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-320.png)
 
 [ナイショ文字](http://fontdasu.com/658)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4817,7 +4818,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-321.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-321.png)
 
 [ヨコスカブロック](http://fontdasu.com/179)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4826,7 +4827,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-322.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-322.png)
 
 [めもわーる](http://modi.jpn.org/font_memoir.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4835,7 +4836,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-323.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-323.png)
 
 [いろはモチ](http://modi.jpn.org/font_iroha-mochi.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4844,7 +4845,7 @@ M+ 1pを角棘・角丸にデザインしたフォント。
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-324.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-324.png)
 
 [シンデレラ](http://modi.jpn.org/font_cinderella.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4853,7 +4854,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-325.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-325.png)
 
 ほのぼのポップ  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4862,7 +4863,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-326.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-326.png)
 
 ふぁんしーはーと  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4871,7 +4872,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-327.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-327.png)
 
 はんでぃはーとねお  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4880,7 +4881,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-328.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-328.png)
 
 ふだんぎふぉんと  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4889,7 +4890,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-329.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-329.png)
 
 [モギハ・ペン字フォント](http://ahito.com/item/desktop/font/mogihaPen/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4899,7 +4900,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-330.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-330.png)
 
 [きなりゴシックmini](http://ymnk-design.com/%e3%81%8d%e3%81%aa%e3%82%8a%e3%82%b4%e3%82%b7%e3%83%83%e3%82%af/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4909,7 +4910,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-331.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-331.png)
 
 [ぽめらにあんフォント](http://www.lazypolarbear.com/entry/2017/06/27/022627)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4918,7 +4919,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-410.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-410.png)
 
 [ゾウフォント](https://www.lazypolarbear.com/zou)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4927,7 +4928,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-332.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-332.png)
 
 [キリンフォント](https://www.lazypolarbear.com/entry/kirin)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4936,7 +4937,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-535.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-535.png)
 
 [ヘキサメテオ](https://orange634nty.booth.pm/items/3024557)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4945,7 +4946,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-495.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-495.png)
 
 [Narehate](https://ncempire.net/download)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4954,7 +4955,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-449.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-449.png)
 
 [まるこいあす](https://microraptor.booth.pm/items/1636407)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4963,7 +4964,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-450.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-450.png)
 
 [すくてらむ(無料版)](https://microraptor.booth.pm/items/1100943)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4972,7 +4973,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-451.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-451.png)
 
 [すぷめら（無料版）](https://microraptor.booth.pm/items/1521680)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4981,7 +4982,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-534.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-534.png)
 
 [あまなつ](https://twitter.com/graygrpx/status/1391043354159292422)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4990,7 +4991,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-333.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-333.png)
 
 [ぽーら](https://twitter.com/graygrpx/status/983514769821843456)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -4999,7 +5000,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-334.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-334.png)
 
 [うらら](https://twitter.com/graygrpx/status/989784961908551680)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5008,7 +5009,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-335.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-335.png)
 
 [はろーはろー](https://twitter.com/graygrpx/status/1224937478752092160)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5018,7 +5019,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-439.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-439.png)
 
 [ミスターグレイ](https://twitter.com/graygrpx/status/1248402845809819649)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5027,7 +5028,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-467.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-467.png)
 
 [カナ0816](https://www.graphicartsunit.com/gaupra/font_k.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5036,7 +5037,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-468.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-468.png)
 
 [リフレッシュ](https://www.graphicartsunit.com/gaupra/font_k.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5045,7 +5046,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-469.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-469.png)
 
 [アトミック](https://www.graphicartsunit.com/gaupra/font_k.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5054,7 +5055,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-470.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-470.png)
 
 [しろうさぎ](https://www.graphicartsunit.com/gaupra/font_k.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5063,7 +5064,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-471.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-471.png)
 
 [クサナギ](https://www.graphicartsunit.com/gaupra/font_k.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5072,7 +5073,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-472.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-472.png)
 
 [カリン91](https://www.graphicartsunit.com/gaupra/font_k.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5081,7 +5082,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-473.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-473.png)
 
 [リラックス](https://www.graphicartsunit.com/gaupra/font_k.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5090,7 +5091,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-474.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-474.png)
 
 [たんぽぽ](https://www.graphicartsunit.com/gaupra/font_k.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5099,7 +5100,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-475.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-475.png)
 
 [ドーナツショップ](https://www.graphicartsunit.com/gaupra/font_k.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5108,7 +5109,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-434.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-434.png)
 
 [チーズゴシック](https://nippori30.booth.pm/items/4159437)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5117,7 +5118,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-426.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-426.png)
 
 [ぱんきじ かな フリー版](https://nomuraya.booth.pm/items/706099)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5126,7 +5127,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-616.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-616.png)
 
 [異端仮名](https://fontring.booth.pm/items/1395946)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5135,7 +5136,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-617.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-617.png)
 
 [異端仮名『怪』](https://fontring.booth.pm/items/3213962)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5144,7 +5145,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-618.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-618.png)
 
 [まろみん](https://fontring.booth.pm/items/1311668)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5153,7 +5154,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-619.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-619.png)
 
 [明朝体用の沖縄文字フリーフォント](https://fontring.booth.pm/items/1003982)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5162,7 +5163,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-606.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-606.png)
 
 [でぃれったんと](https://raymei.booth.pm/items/3747253)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5171,7 +5172,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-605.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-605.png)
 
 [えすにっく風ォント](https://xuemaru.booth.pm/items/2887858)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5180,7 +5181,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-585.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-585.png)
 
 [かなたとひなたDemo](https://flopdesign.com/syotai/kanata.html)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5189,7 +5190,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-491.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-491.png)
 
 [ぺんぎんたうん mini](https://www.flopdesign.com/syotai/penguin.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5198,7 +5199,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-516.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-516.png)
 
 [ななキュンのうた](https://flopdesign.booth.pm/items/260288)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5207,7 +5208,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-412.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-412.png)
 
 [ビースト明朝mini](https://www.flopdesign.com/syotai/beastmincho.html)  
 個人で無料利用可、非営利の同人誌や各種印刷物なども可。  
@@ -5216,7 +5217,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-413.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-413.png)
 
 [カフカヘン](https://www.flopdesign.com/font7/kafkahen-font.html)  
 個人で無料利用可、非営利の同人誌や各種印刷物なども可。  
@@ -5225,7 +5226,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-336.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-336.png)
 
 [ねこかぶりDemo](http://www.flopdesign.com/font4/nekokaburi-font.html)  
 個人で無料利用可。画像投稿サイト、コミケなどの同人誌の利用も無料。  
@@ -5234,7 +5235,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-337.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-337.png)
 
 [なきむしポルカ](https://www.flopdesign.com/font7/nakimushipolca-font.html)  
 個人で無料利用可。画像投稿サイト、コミケなどの同人誌の利用も無料。  
@@ -5243,7 +5244,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-498.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-498.png)
 
 [錦明朝かな](http://www.akenotsuki.com/eyeben/fonts/nishiki_kana.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5253,7 +5254,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-550.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-550.png)
 
 [セマモジ](https://logotype.jp/semamoji.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5262,7 +5263,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-496.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-496.png)
 
 [コトノデかな（無料試用版）](https://dkf.booth.pm/items/2727320)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5271,7 +5272,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-514.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-514.png)
 
 [まろみん](https://fontring.booth.pm/items/1311668)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5280,7 +5281,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-561.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-561.png)
 
 [わたしのために](https://enuoka.booth.pm/items/1398444)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5289,7 +5290,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-461.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-461.png)
 
 [まじぱねぇ](http://www.illllli.com/font/handwriting/majipane/)  
 個人で無料利用可。画像投稿サイト、コミケなどの同人誌の利用も無料。  
@@ -5298,7 +5299,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-338.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-338.png)
 
 うなぎ  
 個人で無料利用可。画像投稿サイト、コミケなどの同人誌の利用も無料。  
@@ -5307,7 +5308,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-340.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-340.png)
 
 [からかぜ](https://enuoka.booth.pm/items/1219316)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5317,7 +5318,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-341.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-341.png)
 
 [Rings of saturn](https://flopdesign.booth.pm/items/605389)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5327,7 +5328,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-507.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-507.png)
 
 [カムラのもじ](http://ymnk-design.com/%e3%82%ab%e3%83%a0%e3%83%a9%e3%81%ae%e3%82%82%e3%81%98/)  
 個人サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5336,7 +5337,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-342.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-342.png)
 
 [プぷプ](http://ymnk-design.com/%e3%83%97%e3%81%b7%e3%83%97/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5345,7 +5346,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-343.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-343.png)
 
 [ガガガガ](http://ymnk-design.com/12-2/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5354,7 +5355,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-344.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-344.png)
 
 [バンバン](http://ymnk-design.com/%e3%83%90%e3%83%b3%e3%83%90%e3%83%b3/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5363,7 +5364,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-345.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-345.png)
 
 [ミシミシ](http://ymnk-design.com/%e3%83%9f%e3%82%b7%e3%83%9f%e3%82%b7/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5372,7 +5373,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-387.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-387.png)
 
 [FZヘラがな](https://zone108.main.jp/s/jp-001heragana.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5380,7 +5381,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-388.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-388.png)
 
 [FZゴンタかな](https://zone108.main.jp/s/jp-005gontakana.php)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5388,7 +5389,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-414.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-414.png)
 
 [ウイスキーカタカナ](https://mikannnoki-font.booth.pm/items/1588250)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5397,7 +5398,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-460.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-460.png)
 
 [Sampomichi HR](http://www.font910.jp/font-list/1byte04.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5408,7 +5409,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-693.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-693.png)
 
 [マルミーニャ](https://hicchicc.github.io/00ff/)  
 [マルミーニャ -BOOTH](https://00ff.booth.pm/items/4927023)  
@@ -5418,7 +5419,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-537.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-537.png)
 
 [マルモニカ](https://hicchicc.github.io/00ff/)  
 [マルモニカ -BOOTH](https://00ff.booth.pm/items/2958237)  
@@ -5431,7 +5432,7 @@ Art Gothicにインスパイアされ、踊るようなかわいさと優雅さ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-755.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-755.png)
 
 [DSEG](https://www.keshikan.net/fonts.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5440,7 +5441,7 @@ LEDやデジタル時計を意識したデジタル数字フォント。7SEG表�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-663.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-663.png)
 
 [4x4 極小かなフォント](http://fontlab.web.fc2.com/4x4minkana.html)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5449,7 +5450,7 @@ LEDやデジタル時計を意識したデジタル数字フォント。7SEG表�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-347.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-347.png)
 
 [Nu きなこもち、Nu あんこもち、Nu よもぎもち](https://sayunu.booth.pm/items/1761323)  
 個人サイトで無料利用可。非営利の同人誌や各種印刷物なども可。  
@@ -5458,7 +5459,7 @@ LEDやデジタル時計を意識したデジタル数字フォント。7SEG表�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-352.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-352.png)
 
 KHドットフォントシリーズ  
 ※2024/5: サイト閉鎖（[archive.org](https://web.archive.org/web/20240328002800/http://jikasei.me/font/kh-dotfont/)）  
@@ -5469,7 +5470,7 @@ KHドットフォントシリーズ
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-359.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-359.png)
 
 [美咲フォント（ゴシック・明朝）](http://littlelimit.net/misaki.htm)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5489,7 +5490,7 @@ KHドットフォントシリーズ
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-365.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-365.png)
 
 [魔方陣文様フォント: Magic Ring](http://inatsuka.com/extra/magicring/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5498,7 +5499,7 @@ KHドットフォントシリーズ
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-366.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-366.png)
 
 [魔方陣文様フォント: 猫の目覚め](http://inatsuka.com/extra/nekomezame/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5507,7 +5508,7 @@ KHドットフォントシリーズ
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-367.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-367.png)
 
 [ヴォイニッチ等幅](https://aramugi.com/?page_id=5404)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5516,7 +5517,7 @@ KHドットフォントシリーズ
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-620.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-620.png)
 
 [Fairfax HD](https://www.kreativekorp.com/software/fonts/fairfaxhd.shtml)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5525,7 +5526,7 @@ KHドットフォントシリーズ
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-368.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-368.png)
 
 ひらがな刻呪ふぉんと  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5535,7 +5536,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-369.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-369.png)
 
 [外字神社](http://www.gaiji.info/home)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5544,7 +5545,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-370.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-370.png)
 
 [九畳篆風フォント](https://booth.pm/ja/items/309134)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5553,7 +5554,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-371.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-371.png)
 
 秀真文字  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5565,7 +5566,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-372.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-372.png)
 
 出雲文字  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5577,7 +5578,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-373.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-373.png)
 
 阿比留草文字  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5589,7 +5590,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-374.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-374.png)
 
 [白川フォント](http://www.dl.is.ritsumei.ac.jp/Shirakawa/search/index.php)  
 個人利用・教育目的での利用は無料。商用は要連絡。  
@@ -5598,7 +5599,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-375.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-375.png)
 
 [忍者文字フォント](http://iga-ueno.or.jp/ninjamoji/%E5%BF%8D%E8%80%85%E6%96%87%E5%AD%97%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88/)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5607,7 +5608,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-376.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-376.png)
 
 [GL-MahjongTile (麻雀牌)](https://github.com/Gutenberg-Labo/DingbatFonts)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5616,7 +5617,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-455.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-455.png)
 
 コード譜フォント  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
@@ -5627,7 +5628,7 @@ Fateの令呪にインスパイアされた、なんちゃって雰囲気フォ�
 
 
 
-![日本語のフリーフォントのキャプチャ](//coliss.com/wp-content/uploads-00/japanese-freefont-430.png)
+![フォント](//coliss.com/wp-content/uploads-00/japanese-freefont-430.png)
 
 [Nu みちしるべ](https://sayunu.booth.pm/items/2503782)  
 個人・商用サイトで無料利用可。同人誌や各種印刷物なども可。  
