@@ -1,4 +1,4 @@
-baseURL = "https://myfont.us.kg/"
+baseURL = "https://myfont.grapehut.us.kg/"
 title = "フォントの隠れ屋～"
 theme = "dream"
 
@@ -42,7 +42,7 @@ email = "g1enyy0ung@gmail.com"
 
 
 # footerBottomText = ""
-siteStartYear = 2023
+siteStartYear = 2024
 
 
 # Syntax highlighting
