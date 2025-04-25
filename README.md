@@ -1,16 +1,12 @@
 # フォントの隠れ屋
-https://myfont.us.kg/
 
-
-## VPS关联（kinsta⇔hugo）
+## １．VPS关联（kinsta⇔hugo）
 https://github.com/kinsta/hello-world-hugo
 
-
-## hugo-theme-dream 下载
+## ２．hugo-theme-dream 下载
 https://themes.gohugo.io/themes/hugo-theme-dream/
 
-
-## hugo-theme-dream 使用方法
+## ３．hugo-theme-dream 使用方法
 1. [Quick Start](https://g1en.site/hugo-theme-dream)
 2. [Base Configurations](https://g1en.site/hugo-theme-dream/base-configurations)
 3. [Params Configurations](https://g1en.site/hugo-theme-dream/params-configurations)
@@ -28,7 +24,7 @@ https://themes.gohugo.io/themes/hugo-theme-dream/
 
 
 
-## sample
+## ４．sample
 https://g1en.site/
 
 
